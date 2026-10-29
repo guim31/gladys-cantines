@@ -1,0 +1,1738 @@
+[
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "La Montagne",
+    "date": "2026-10-15",
+    "repas": "Choux rouges vinaigrette ** RIO tomates/mozzarella local Ancenis * ** Ratatouille Camembert ** Compote pomme fraise Gouter Lait Barre bretonne Fruit go\u00fbter * V\u00e9g\u00e9tarien ** BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Saint-Aignan de Grand Lieu",
+    "date": "2026-10-15",
+    "repas": "MENU HALLOWEEN Velout\u00e9 de butternut Croque monstrueux, Salade verte BIO, Vinaigrette Saint Paulin Brownie d'Halloween"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Brains",
+    "date": "2026-10-15",
+    "repas": "Pizza m\u00e9diterran\u00e9enne  Salade verte  Cr\u00e8me de semoule au lait  Fruit de saison  \u00a0  Go\u00fbter:  Madeleine  Yaourt aromatis\u00e9  Compote"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Sautron",
+    "date": "2026-10-15",
+    "repas": "Semaine du go\u00fbt - menu Jaune   Samossa\u00a0  Pa\u00eblla aux fruits de mer (4)(8)  Riz safran\u00e9\u00a0  Tarte au citron"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Carquefou",
+    "date": "2026-10-15",
+    "repas": "Menu v\u00e9g\u00e9tarien   Betteraves ( Bio ) Chili sin carne Boulgour ( Bio ) Yaourt ( Bio ) Banane ( Bio ) -  Go\u00fbter  Pain confiture Poire ( Bio )"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "La Chapelle-sur-Erdre",
+    "date": "2026-10-15",
+    "repas": "Rillettes de poulet maison Saut\u00e9 de veau\u00a0 aux olives Haricots beurre en persillade Cantal AOP Fruit de saison bio  Go\u00fbter : barre marbr\u00e9e, lait bio"
+  },
+  {
+    "id_type_menu": "2",
+    "type_menu": "Menu allergique",
+    "commune": "Nantes",
+    "date": "2026-10-15",
+    "repas": "Duo de l\u00e9gumes  Bl\u00e9 \u00e0 la bolognaise*  Yaourt nature sucr\u00e9  bio  Compote de pomme -  *Viande bovine fran\u00e7aise"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "La Montagne",
+    "date": "2026-10-15",
+    "repas": "RIO tomates/mozzarella local Ancenis * ** Ratatouille Camembert ** Compote pomme fraise Gouter Lait Barre bretonne Fruit go\u00fbter * V\u00e9g\u00e9tarien ** BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Saint-S\u00e9bastien-sur-Loire",
+    "date": "2026-10-15",
+    "repas": "Salade d'endives Falafels sauce aux herbes Brocolis vapeur Fromage blanc fermier  Carr\u00e9 de chocolat noir"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Saint-Herblain",
+    "date": "2026-10-15",
+    "repas": "Gaspacho vert Filet de poisson sauce oseille ou Tarte v\u00e9g\u00e9tarienne Riz sauvage Ossau-iraty  AOP Raisin BIO deux couleurs ~~"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Nantes",
+    "date": "2026-10-15",
+    "repas": "Carottes r\u00e2p\u00e9es  bio   \u00c9minc\u00e9 de dinde* fa\u00e7on kebab OU  Rio au fromage  Gratin\u00e9e de l\u00e9gumes  G\u00e2teau au chocolat et mogettes et verre de lait  bio  -  *Viande de volaille fran\u00e7aise"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Bouguenais",
+    "date": "2026-10-15",
+    "repas": "CAROTTES RAPEES BIO  KNACKIS PUREE DE BUTTERNUT MIMOLETTE BIO  ORANGE BIO"
+  },
+  {
+    "id_type_menu": "6",
+    "type_menu": "Menu alternatif",
+    "commune": "Carquefou",
+    "date": "2026-10-15",
+    "repas": "Pas de menu alternatif pour cette date. Se r\u00e9f\u00e9rer au menu standard."
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Saint-Herblain",
+    "date": "2026-10-15",
+    "repas": "Gaspacho vert Filet de poisson sauce oseille ou Tarte v\u00e9g\u00e9tarienne Riz sauvage Ossau-iraty  AOP Raisin BIO deux couleurs ~~"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Rez\u00e9",
+    "date": "2026-10-15",
+    "repas": "SEMAINE DU GOUT   Gaspacho vert - Filet de poisson sauce oseille Tarte v\u00e9g\u00e9tarienne - Riz sauvage - Ossau-iraly AOP - Raisin BIO deux couleurs \u00a0  Go\u00fbter :  Marbr\u00e9, fruit de saison BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Orvault",
+    "date": "2026-10-15",
+    "repas": "Salade verte(BIO), c?urs de palmier Omelette, sauce tomates(BIO) Tortis(BIO) Fromage blanc nature(BIO)"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Saint-Jean-de-Boiseau",
+    "date": "2026-10-15",
+    "repas": "Nems aux l\u00e9gumes Filet de colin /MSC, sauce cr\u00e8me au chorizo Pommes de terre \u00e0 l'anglaise /AB Rose des sables maison"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Cou\u00ebron",
+    "date": "2026-10-15",
+    "repas": "Potage tomates  Crumble de l\u00e9gumes et PDT au grana padano  Salade verte  St Paulin BIO  Quatre quart maison"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Rez\u00e9",
+    "date": "2026-10-15",
+    "repas": "SEMAINE DU GOUT   Gaspacho vert - Filet de poisson sauce oseille Tarte v\u00e9g\u00e9tarienne - Riz sauvage - Ossau-iraly AOP - Raisin BIO deux couleurs \u00a0  Go\u00fbter :  Marbr\u00e9, fruit de saison BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Orvault",
+    "date": "2026-10-16",
+    "repas": "Salade de riz(BIO), thon, courgettes(ferme municipale) B?uf Carottes(BIO) Camembert(BIO) Kiwi(BIO)"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Carquefou",
+    "date": "2026-10-16",
+    "repas": "Salade de pomme de terre aux herbes ( Bio ) Boulettes de poulet sauce foresti\u00e8re* Haricots verts ( Bio ) Vache qui rit ( Bio ) Kiwi ( Bio ) -  Go\u00fbter  Biscuit Prince Compote pomme  *Viande fran\u00e7aise"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Saint-Aignan de Grand Lieu",
+    "date": "2026-10-16",
+    "repas": "LES RENCONTRES DU GO\u00dbT ANGLETERRE - Beans toast gratin\u00e9 au fromage Aiguillettes de poulet aux cornflakes Carottes BIO brais\u00e9es Fruit de saison BIO"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Saint-Herblain",
+    "date": "2026-10-16",
+    "repas": "Carottes de couleurs vari\u00e9es Jambon fum\u00e9e sauce foresti\u00e8re ou Gratin de pomme de terre, carottes et lentilles"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Saint-Jean-de-Boiseau",
+    "date": "2026-10-16",
+    "repas": "Carottes et c\u00e9leris r\u00e9moulade /AB Chipolata et merguez de boeuf-mouton au sel de gu\u00e9rande /VBF Petits pois et carottes \u00e0 l'\u00e9tuv\u00e9e Fruit"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Nantes",
+    "date": "2026-10-16",
+    "repas": "Houmous et blinis  Accras\u00a0 Ratatouille  bio   Saint Paulin  bio  Pomme  bio"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "La Montagne",
+    "date": "2026-10-16",
+    "repas": "Carottes r\u00e2p\u00e9es vinaigrette ** Parmentier au canard (plat complet) Hachis parmentier de lentilles PC * Carr\u00e9 de l'est Cake orange Gouter Fromage du jour (entier) Pain Compotes de pommes HVE * V\u00e9g\u00e9tarien ** BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Sautron",
+    "date": "2026-10-16",
+    "repas": "Semaine du go\u00fbt - menu Rouge   Velout\u00e9 de tomates\u00a0  Poulet tikka masala\u00a0  Boulettes v\u00e9g\u00e9tariennes\u00a0  Semoule\u00a0  Mousse de fruits rouges"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Cou\u00ebron",
+    "date": "2026-10-16",
+    "repas": "Carottes r\u00e2p\u00e9es BIO  R\u00f4ti de porc au jus  VG: Dhal de lentilles corail au lait de coco  Riz BIO  Mousse au chocolat"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Saint-S\u00e9bastien-sur-Loire",
+    "date": "2026-10-16",
+    "repas": "Sardines \u00e0 l?huile R\u00f4ti de porc marin\u00e9  Poisson sauce beurre blanc Pommes de terre rissol\u00e9es  Fromage Fruit de saison"
+  },
+  {
+    "id_type_menu": "2",
+    "type_menu": "Menu allergique",
+    "commune": "Nantes",
+    "date": "2026-10-16",
+    "repas": "Mac\u00e9doine \u00e0 la vinaigrette  Poisson sauce \u00e9meraude Riz cr\u00e9ole  bio   Petits suisses sucr\u00e9s\u00a0 Fruit  bio"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Brains",
+    "date": "2026-10-16",
+    "repas": "Saut\u00e9 de dinde \u00e0 l'estragon  Haricots verts persill\u00e9s  Edam  G\u00e2teau myst\u00e8re du chef  \u00a0  Go\u00fbter:  Baguette viennoise du boulanger  Lait+sirop  Jus de fruits"
+  },
+  {
+    "id_type_menu": "6",
+    "type_menu": "Menu alternatif",
+    "commune": "Carquefou",
+    "date": "2026-10-16",
+    "repas": "Salade de pomme de terre aux herbes ( Bio ) Boulettes v\u00e9g\u00e9tales sauce foresti\u00e8re Haricots verts ( Bio ) Vache qui rit ( Bio ) Kiwi ( Bio ) -  Go\u00fbter  Biscuit Prince Compote pomme"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Bouguenais",
+    "date": "2026-10-16",
+    "repas": "PATE DE CAMPAGNE MIJOTE DE BOEUF LENTILLES GATEAU AU CHOCOLAT"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Rez\u00e9",
+    "date": "2026-10-16",
+    "repas": "SEMAINE DU GOUT\u00a0   Carottes de couleurs vari\u00e9es BIO - Jambon fum\u00e9 sauce foresti\u00e8re Gratin de pommes de terre, carottes et lentilles - Pur\u00e9e de petits pois - Yaourt nature BIO - G\u00e2teau au pandan \u00a0  Go\u00fbter :  Pain, p\u00e2te \u00e0 tartiner"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "La Chapelle-sur-Erdre",
+    "date": "2026-10-16",
+    "repas": "C\u00e9leri bio r\u00e9moulade mayonnaise maison Poisson frais du march\u00e9 sauce vanille Pur\u00e9e mamaliga bio au lait de la Panneti\u00e8re Yaourt bio de la Panneti\u00e8re  Go\u00fbter : brioche, fruit bio"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "La Montagne",
+    "date": "2026-10-16",
+    "repas": "Carottes r\u00e2p\u00e9es vinaigrette ** Parmentier au canard (plat complet) Hachis parmentier de lentilles PC * Cake orange Gouter Fromage du jour (entier) Pain Compotes de pommes HVE * V\u00e9g\u00e9tarien ** BIO"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Rez\u00e9",
+    "date": "2026-10-16",
+    "repas": "SEMAINE DU GOUT\u00a0   Carottes de couleurs vari\u00e9es BIO - Jambon fum\u00e9 sauce foresti\u00e8re Gratin de pommes de terre, carottes et lentilles - Pur\u00e9e de petits pois - Yaourt nature BIO - G\u00e2teau au pandan \u00a0  Go\u00fbter :  Pain, p\u00e2te \u00e0 tartiner"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Saint-Herblain",
+    "date": "2026-10-16",
+    "repas": "Carottes de couleurs vari\u00e9es Jambon fum\u00e9e sauce foresti\u00e8re ou Gratin de pomme de terre, carottes et lentilles Petits pois Yaourt nature BIO G\u00e2teau de pandan ~~"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "La Montagne",
+    "date": "2026-10-19",
+    "repas": "Taboul\u00e9 ** \u00c9minc\u00e9e de poulet LNA FR foresti\u00e8re\u00a0 Croc veggie fromage * Po\u00eal\u00e9e de courgettes ** Yaourt aromatis\u00e9 ** Gouter Emmental portion Pain Fruit go\u00fbter * V\u00e9g\u00e9tarien ** BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Nantes",
+    "date": "2026-10-19",
+    "repas": "Menu v\u00e9g\u00e9tarien  - Salade pi\u00e9montaise\u00a0  Omelette  bio  \u00c9pinards \u00e0 la cr\u00e8me\u00a0  Edam  bio  Pomme  bio"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Orvault",
+    "date": "2026-10-19",
+    "repas": "Betteraves, vinaigrette(BIO) Saut\u00e9 d'agneau Flageolets(BIO) Babybel(BIO) Tarte pommes-cassis"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Bouguenais",
+    "date": "2026-10-19",
+    "repas": "OEUF FAYONNAISE MACARONIS SEMI COMPLET BIO RATATOUILLE ASSIETTE DE FROMAGE BIO  CREME DESSERT CHOCOLAT BIO  GOUTER PAIN BEURRE CHOCOLAT BIO"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "La Montagne",
+    "date": "2026-10-19",
+    "repas": "Taboul\u00e9 ** \u00c9minc\u00e9e de poulet LNA FR foresti\u00e8re\u00a0 Croc veggie fromage * Po\u00eal\u00e9e de courgettes ** Brie Yaourt aromatis\u00e9 ** Gouter Emmental portion Pain Fruit go\u00fbter * V\u00e9g\u00e9tarien ** BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Brains",
+    "date": "2026-10-19",
+    "repas": "Velout\u00e9 de l\u00e9gumes  Haut de cuisse de poulet r\u00f4ti  P\u00e2tes au pesto vert  Poire  \u00a0  Go\u00fbter:  Baguette viennoise au chocolat  Lait+sirop  Fruit"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Saint-Herblain",
+    "date": "2026-10-19",
+    "repas": "Batonnet de carottes BIO et sauce au yaourt BIO de brebis Poisson meuni\u00e8re ou Arancini tomate mozarella BIO et sauce aurore Brocolis Riz au lait ~~"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Saint-Herblain",
+    "date": "2026-10-19",
+    "repas": "Batonnet de carottes BIO et sauce au yaourt BIO de brebis Poisson meuni\u00e8re ou Arancini tomate mozarella BIO et sauce aurore Brocolis Riz au lait ~~"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Bouguenais",
+    "date": "2026-10-20",
+    "repas": "SALADE DE RIZ MAIS RADIS SAUCISSE DE VOLAILLE BIO POMMES VAPEUR BIO YAOURT VANILLE BIO GOUTER VIENNOISERIE DU JOUR"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Sautron",
+    "date": "2026-10-20",
+    "repas": "Taboul\u00e9\u00a0  Escalope de poulet, coco, ananas\u00a0  Poisson meuni\u00e8re\u00a0  Brocolis\u00a0  Compote"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Nantes",
+    "date": "2026-10-20",
+    "repas": "Tarte douceur automnale  R\u00f4ti de porc*\u00a0 OU  Picoussel  Carottes  bio   Fromage Carr\u00e9  bio  Poire  bio  -  *Viande de porc fran\u00e7aise"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Brains",
+    "date": "2026-10-20",
+    "repas": "Filet de poisson  Gratin de chou-fleur et pommes de terre  Tomme blanche  Glace vanille  \u00a0  Go\u00fbter:  Brioche+confiture/p\u00e2te \u00e0 tartiner  Jus de fruits"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Orvault",
+    "date": "2026-10-20",
+    "repas": "Carottes r\u00e2p\u00e9es(BIO) Filet de hoki (MSC) grill\u00e9 Poireaux (ferme municipale) \u00e0 la cr\u00e8me Riz au lait(BIO)"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "La Montagne",
+    "date": "2026-10-20",
+    "repas": "Rougail saucisse de Saveurs des Mauges Chili aux haricots rouges * Riz cr\u00e9ole B\u00fbchette lait Fruit frais Gouter Lait litre go\u00fbter Biscuits fourr\u00e9s chocolat Compote pomme fraise * V\u00e9g\u00e9tarien ** BIO"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Saint-Herblain",
+    "date": "2026-10-20",
+    "repas": "Couscous v\u00e9g\u00e9tarien - Merguez v\u00e9g\u00e9tarienne - Semoule BIO et l\u00e9gumes Salade verte Cantal AOP Fruit de saison BIO ~~"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "La Montagne",
+    "date": "2026-10-20",
+    "repas": "C\u00e9leri r\u00e9moulade (frais r\u00e2p\u00e9) ** Rougail saucisse de Saveurs des Mauges Chili aux haricots rouges * Riz cr\u00e9ole B\u00fbchette lait Fruit frais Gouter Lait litre go\u00fbter Biscuits fourr\u00e9s chocolat Compote pomme fraise * V\u00e9g\u00e9tarien ** BIO"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Saint-Herblain",
+    "date": "2026-10-20",
+    "repas": "Couscous v\u00e9g\u00e9tarien - Merguez v\u00e9g\u00e9tarienne - Semoule BIO et l\u00e9gumes Salade verte Cantal AOP Fruit de saison BIO ~~"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "La Montagne",
+    "date": "2026-10-21",
+    "repas": "Rilettes de porc HVE nature Oeuf dur mayonnaise Poisson meuni\u00e8re MSC nature Nugget's de bl\u00e9 * \u00c9pinards HVE \u00e0 la cr\u00e8me Mousse au chocolat au lait Gouter Fromage du jour (entier Pain Fruit go\u00fbter * V\u00e9g\u00e9tarien ** BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Sautron",
+    "date": "2026-10-21",
+    "repas": "\u0152uf Mayonnaise\u00a0  Eminc\u00e9 de boeuf\u00a0  Tarte au fromage\u00a0  Gratin de chou-fleur\u00a0  Yaourt"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Saint-Herblain",
+    "date": "2026-10-21",
+    "repas": "Salade de m\u00e2che, tomates Paupiette de veau sauce chasseur et \u00e9cras\u00e9 de pommes de terre ou Coquillettes aux petits l\u00e9gumes et boursin Cr\u00e8me gourmande chocolat ~~"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "La Montagne",
+    "date": "2026-10-21",
+    "repas": "Rilettes de porc HVE nature Oeuf dur mayonnaise Poisson meuni\u00e8re MSC nature Nugget's de bl\u00e9 * \u00c9pinards HVE \u00e0 la cr\u00e8me  Coulommier ** Mousse au chocolat au lait Gouter Fromage du jour (entier Pain Fruit go\u00fbter * V\u00e9g\u00e9tarien ** BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Orvault",
+    "date": "2026-10-21",
+    "repas": "Pizza aux l\u00e9gumes(BIO) Crumble de l\u00e9gumes (courgettes & tomates (ferme municipale), pommes de terre, pois chiches, boulgour(BIO)) Emmental(BIO) Banane(BIO)"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Bouguenais",
+    "date": "2026-10-21",
+    "repas": "QUICHE AUX POIREAUX EMINCE DE DINDE EN SAUCE BOULGOUR BRIE RAISIN GOUTER BARRE PATISSIERE"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Brains",
+    "date": "2026-10-21",
+    "repas": "Betteraves, vinaigrette \u00e0 la framboise  Pizza bolognaise  Salade  Panna cotta fruits rouges  \u00a0  Go\u00fbter:  Cake marbr\u00e9 au chocolat  Yaourt aromatis\u00e9  Compote"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Saint-Herblain",
+    "date": "2026-10-21",
+    "repas": "Salade de m\u00e2che, tomates Paupiette de veau sauce chasseur et \u00e9cras\u00e9 de pommes de terre ou Coquillettes aux petits l\u00e9gumes et boursin Cr\u00e8me gourmande chocolat ~~"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Nantes",
+    "date": "2026-10-21",
+    "repas": "Menu v\u00e9g\u00e9tarien  - Salade douceur aux graines de tournesol  bio   Lasagnes v\u00e9g\u00e9tariennes  Yaourt BBC \u00e0 la vanille"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Bouguenais",
+    "date": "2026-10-22",
+    "repas": "SALADE DE PATES BIO POISSON MEUNIERE CAROTTES BIO GRUYERE BIO ORANGE BIO GOUTER PAIN BIO CONFITURE"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Saint-Herblain",
+    "date": "2026-10-22",
+    "repas": "Tzatziki et pain de mie Saut\u00e9 de dinde au fromage frais et haricots verts et pommes de terre ou Gratin de pommes de terre et choux fleurs au sarrazin Yaourt au citron BIO ~~"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Orvault",
+    "date": "2026-10-22",
+    "repas": "Maquereaux \u00e0 la moutarde(BIO) Lasagnes (p\u00e2tes, \u00e9gren\u00e9 de b?uf(BIO), tomates (ferme municipale)) Salade verte(BIO) Gouda(BIO) Pomme(BIO)"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Sautron",
+    "date": "2026-10-22",
+    "repas": "C\u00e9leri rave\u00a0  Jambon grill\u00e9\u00a0  Galette de haricots rouges\u00a0  Pur\u00e9e de carottes\u00a0  Fruit de saison"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Brains",
+    "date": "2026-10-22",
+    "repas": "Eminc\u00e9 de dinde  Pur\u00e9e de courges  Mimolette  G\u00e2teau \u00e0 la carotte  \u00a0  Go\u00fbter:  G\u00e2teau maison  Lait+sirop  Fruit"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Saint-Herblain",
+    "date": "2026-10-22",
+    "repas": "Tzatziki et pain de mie Saut\u00e9 de dinde au fromage frais et haricots verts et pommes de terre ou Gratin de pommes de terre et choux fleurs au sarrazin Yaourt au citron BIO ~~"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "La Montagne",
+    "date": "2026-10-22",
+    "repas": "Biscuit Sandwich jambon beurre Sandwich oeuf dur mayonnaise * Chips Fromage  Fruit Gouter Fromage blanc sucr\u00e9 Viennoise Jus d'ananas * V\u00e9g\u00e9tarien ** BIO"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "La Montagne",
+    "date": "2026-10-22",
+    "repas": "Sandwich jambon beurre Sandwich oeuf dur mayonnaise * Chips Fromage Fruit Gouter Fromage blanc sucr\u00e9 Viennoise Jus d'ananas * V\u00e9g\u00e9tarien ** BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Nantes",
+    "date": "2026-10-22",
+    "repas": "Houmous de betteraves  bio  et chips tortilla  Aiguillettes de poulet* pan\u00e9 OU  Crique au Cantal  Marmelade de pomme  Saint Paulin  bio  Banane  bio  et \u00e9quitable -  *Viande de volaille fran\u00e7aise"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "La Montagne",
+    "date": "2026-10-23",
+    "repas": "Mac\u00e9doine mayonnaise Gratin de coquillettes au cheddar * Yaourt sucr\u00e9 ** Fruit frais Gouter Yaourt sucr\u00e9 Cake p\u00e9pites de chocolat Compote de poire * V\u00e9g\u00e9tarien ** BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Sautron",
+    "date": "2026-10-23",
+    "repas": "Quiche lorraine\u00a0  Poisson\u00a0  Riz aux petits l\u00e9gumes\u00a0  Cr\u00e8me caramel\u00a0  Fruit de saison"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Brains",
+    "date": "2026-10-23",
+    "repas": "Feuillet\u00e9 au fromage  Chipolatas grill\u00e9es  Frites  Cr\u00e8me \u00e0 la vanille  \u00a0  Go\u00fbter:  Pain au chocolat/croissant  Petit suisse  Jus de fruits"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Orvault",
+    "date": "2026-10-23",
+    "repas": "Salade de tomates anciennes(ferme municipale) Blanquette de haricots blancs (carottes, champignons, c\u00e9r\u00e9ales m\u00e9diterran\u00e9ennes)(BIO) Tomme Noire (IGP) Flan maison"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Saint-Herblain",
+    "date": "2026-10-23",
+    "repas": "Tartine tomates s\u00e9ch\u00e9es et mozarella Jambon label rouge sauce foresti\u00e8re et pennes BIO ou Dahl de lentilles corail au lait de coco Fruit de saison BIO ~~"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Bouguenais",
+    "date": "2026-10-23",
+    "repas": "SARDINE A L HUILE ROTI DE PORC BIO HARICOTS BEURRE ILES FLOTTANTES GOUTER PAIN MIEL BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Nantes",
+    "date": "2026-10-23",
+    "repas": "Salade d'endives et  d\u00e9s de brebis  Brandade de morue  Pur\u00e9e de pomme/p\u00eache bio"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Saint-Herblain",
+    "date": "2026-10-23",
+    "repas": "Tartine tomates s\u00e9ch\u00e9es et mozarella Jambon label rouge sauce foresti\u00e8re et pennes BIO ou Dahl de lentilles corail au lait de coco Fruit de saison BIO ~~"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "La Montagne",
+    "date": "2026-10-23",
+    "repas": "Gratin de coquillettes au cheddar * Yaourt sucr\u00e9 ** Fruit frais Gouter Yaourt sucr\u00e9 Cake p\u00e9pites de chocolat Compote de poire * V\u00e9g\u00e9tarien ** BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Orvault",
+    "date": "2026-10-26",
+    "repas": "Choux rouges(ferme municipale), noix(BIO) Croustillant au fromage(BIO) Ratatouille(BIO) Yaourt aux fruits(BIO)"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "La Montagne",
+    "date": "2026-10-26",
+    "repas": "V\u00e9lout\u00e9 de tomates Gratin de choux fleurs pommes de terre et jambon (plat complet)  Falafels de pois chiche nature * Camembert ** Flan napp\u00e9 caramel Gouter Fromage blanc sucr\u00e9 Viennoise Fruit go\u00fbter * V\u00e9g\u00e9tarien ** BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Nantes",
+    "date": "2026-10-26",
+    "repas": "Menu v\u00e9g\u00e9tarien  - Radis  bio  et chanteneige  bio   Croque fromage et salade verte  \u00cele flottante"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Saint-Herblain",
+    "date": "2026-10-26",
+    "repas": "Melon jaune Filet de poisson frais sauce petits l\u00e9gumes ou Tarte ch\u00e8vre et tomate Quinoa ou Salade iceberg Saint-Paulin BIO Salade de fruits frais BIO ~~"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Brains",
+    "date": "2026-10-26",
+    "repas": "Saut\u00e9 de dinde sauce curry  Semoule  Fromage  Panna cotta passion  \u00a0  Go\u00fbter:  Beignet  Yaourt aromatis\u00e9  Jus de fruits"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Sautron",
+    "date": "2026-10-26",
+    "repas": "Avocat\u00a0  Dal de lentilles  Semoule\u00a0  Brebicreme\u00a0  Yaourt"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Bouguenais",
+    "date": "2026-10-26",
+    "repas": "SALADE DE BETTERAVES BIO CORDON BLEU DE VOLAILLE  GRATIN DE CHOU FLEUR POMME BIO GOUTER PAIN BIO CONFITURE"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "La Montagne",
+    "date": "2026-10-26",
+    "repas": "V\u00e9lout\u00e9 de tomates Gratin de choux fleurs pommes de terre et jambon (plat complet) Falafels de pois chiche nature * Flan napp\u00e9 caramel Gouter Fromage blanc sucr\u00e9 Viennoise Fruit go\u00fbter * V\u00e9g\u00e9tarien ** BIO"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Saint-Herblain",
+    "date": "2026-10-26",
+    "repas": "Melon jaune Filet de poisson frais sauce petits l\u00e9gumes ou Tarte ch\u00e8vre et tomate Quinoa ou Salade iceberg Saint-Paulin BIO Salade de fruits frais BIO ~~"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Sautron",
+    "date": "2026-10-27",
+    "repas": "Mac\u00e9doine\u00a0  Colombo de poulet\u00a0\u00a0  Haricots verts\u00a0  Fruit de saison"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Saint-Herblain",
+    "date": "2026-10-27",
+    "repas": "P\u00e2t\u00e9 de campagne ou Salade pommes de terre tomates Boulette de b?uf BIO ou Nems aux l\u00e9gumes Duo de carottes et pommes de terre BIO Gouda Fruit de saison BIO ~~"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Saint-Herblain",
+    "date": "2026-10-27",
+    "repas": "P\u00e2t\u00e9 de campagne ou Salade pommes de terre tomates Boulette de b?uf BIO ou Nems aux l\u00e9gumes Duo de carottes et pommes de terre BIO Gouda Fruit de saison BIO ~~"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Nantes",
+    "date": "2026-10-27",
+    "repas": "Menu v\u00e9g\u00e9tarien  - Betteraves  bio   Accras Ratatouille  Compote de pomme"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "La Montagne",
+    "date": "2026-10-27",
+    "repas": "Cr\u00eape au fromage Filet de poulet LNA sauce moutarde  Croustillant fromager * Carottes vichy ** Fromage \u00e0 tartiner ** Fruit frais Gouter Fromage du jour (entier) Pain Compotes de pommes HVE * V\u00e9g\u00e9tarien ** BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Brains",
+    "date": "2026-10-27",
+    "repas": "Velout\u00e9 dubarry (pommes de terre/chou-fleur)  P\u00e2tes \u00e0 la carbonara  Yaourt sucr\u00e9  \u00a0  Go\u00fbter:  Pain+confiture/p\u00e2te \u00e0 tartiner  Lait+sirop"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Orvault",
+    "date": "2026-10-27",
+    "repas": "Duo de salade Tartiflette (pommes de terre, oignons(ferme municipale), lardons, tomme catalane(BIO)) ou Tartiflette sans lardons Poires"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "La Montagne",
+    "date": "2026-10-27",
+    "repas": "Cr\u00eape au fromage Filet de poulet LNA sauce moutarde Croustillant fromager * Carottes vichy ** Fruit frais Gouter Fromage du jour (entier) Pain Compotes de pommes HVE * V\u00e9g\u00e9tarien ** BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Bouguenais",
+    "date": "2026-10-27",
+    "repas": "SALADE DE CHOUX ET FROMAGE BIO SAUTER DE DINDE POMMES NOISETTES PETIT SUISSE BIO KIWI  GOUTER VIENNOISERIE DU JOUR"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "La Montagne",
+    "date": "2026-10-28",
+    "repas": "Betteraves vinaigrette ** Mijot\u00e9 de lentilles * Pur\u00e9e de pomme de terre Fromage \u00e0 p\u00e2te press\u00e9 cuite Li\u00e9gois vanille Gouter Lait Cr\u00eape sucr\u00e9e Sauce chocolat * V\u00e9g\u00e9tarien ** BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Bouguenais",
+    "date": "2026-10-28",
+    "repas": "SALADE DE CONCOMBRES POISSON BLANC SAUCE CITRON BLE BIO FROMAGE BLANC BIO AUX FRUITS GOUTER PAIN AU LAIT"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Brains",
+    "date": "2026-10-28",
+    "repas": "Concombres \u00e0 la cr\u00e8me  R\u00f4ti de porc jus au thym  Petits pois  Raisins  \u00a0  Go\u00fbter:  Barre bretonne  Petit suisse aux fruits  Compote"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Nantes",
+    "date": "2026-10-28",
+    "repas": "M\u00e2che aux noix  bio   Saut\u00e9 de boeuf*  bio  sauce foresti\u00e8re\u00a0 OU  Boulettes de lentilles et patate douce  bio  sauce foresti\u00e8re  Pur\u00e9e de patate douce  Yaourt BBC aux fruits mix\u00e9s -  *Viande bovine fran\u00e7aise"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "La Montagne",
+    "date": "2026-10-28",
+    "repas": "Betteraves vinaigrette ** Mijot\u00e9 de lentilles * Pur\u00e9e de pomme de terre Li\u00e9gois vanille Gouter Lait Cr\u00eape sucr\u00e9e Sauce chocolat * V\u00e9g\u00e9tarien ** BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Orvault",
+    "date": "2026-10-28",
+    "repas": "Salade d'endives(BIO) R\u00f4ti de b?uf P\u00e2tes(BIO) Brie(BIO) Compote de pommes(BIO)"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Saint-Herblain",
+    "date": "2026-10-28",
+    "repas": "Rilettes de sardines et craquotte ou Terrine de carottes au cumin Tomate farcie v\u00e9g\u00e9tarienne Pomme de terre et courgettes \u00e0 l'ail Comt\u00e9 AOP Fruit de saison BIO ~~"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Saint-Herblain",
+    "date": "2026-10-28",
+    "repas": "Rilettes de sardines et craquotte ou Terrine de carottes au cumin Tomate farcie v\u00e9g\u00e9tarienne Pomme de terre et courgettes \u00e0 l'ail Comt\u00e9 AOP Fruit de saison BIO ~~"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Sautron",
+    "date": "2026-10-28",
+    "repas": "Salade de chou rouge\u00a0  Poisson meuni\u00e8re\u00a0  Po\u00eal\u00e9e de l\u00e9gumes  Galette Saint-Michel  Fromage blanc"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Nantes",
+    "date": "2026-10-29",
+    "repas": "Salade de pommes de terre  bio  et sardines  Pilon de poulet* OU  Bouch\u00e9es courgettes et f\u00e9ta  Haricots verts  bio   Comt\u00e9 Poire  bio"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "La Montagne",
+    "date": "2026-10-29",
+    "repas": "Sandwich jambon beurre Sandwich oeuf dur mayonnaise * Chips Fromage Fruit Gouter Yaourt sucr\u00e9 Madeleine Compote de pommes coing coupelle * V\u00e9g\u00e9tarien ** BIO"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Saint-Herblain",
+    "date": "2026-10-29",
+    "repas": "Radis BIO Chili v\u00e9gatarien Riz BIO Yaourt nature BIO Tarte au citron meringu\u00e9e ~~"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Sautron",
+    "date": "2026-10-29",
+    "repas": "Salade de p\u00e2tes\u00a0  R\u00f4ti de porc\u00a0  Pur\u00e9e de l\u00e9gumes\u00a0  Fruit de saison"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Bouguenais",
+    "date": "2026-10-29",
+    "repas": "MACHE POMMES NOIX CHILI CON CARNE RIZ BASMATI BIO ECLAIR GOUTER BISCUITS NANTAIS"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Brains",
+    "date": "2026-10-29",
+    "repas": "Salade de tomates et d\u00e9s de fromage  Rougail saucisse  Riz  Compote pomme/fraise  \u00a0  Go\u00fbter:  Pain au chocolat/croissant  Lait  Fruit"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "La Montagne",
+    "date": "2026-10-29",
+    "repas": "Biscuit Sandwich jambon beurre Sandwich oeuf dur mayonnaise * Chips Fromage Fruit Gouter Yaourt sucr\u00e9 Madeleine Compote de pommes coing coupelle * V\u00e9g\u00e9tarien ** BIO"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Saint-Herblain",
+    "date": "2026-10-29",
+    "repas": "Radis BIO Chili v\u00e9gatarien Riz BIO Yaourt nature BIO Tarte au citron meringu\u00e9e ~~"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Orvault",
+    "date": "2026-10-29",
+    "repas": "Salade de tomates (ferme municipale)\u00e0 la menthe(BIO) Couscous de l\u00e9gumes (semoule, courgettes(ferme municipale), carottes, pois chiches(BIO) Mimolette Moelleux au chocolat(BIO)"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "La Montagne",
+    "date": "2026-10-30",
+    "repas": "Carottes r\u00e2p\u00e9es vinaigrette ** Dos de colin MSC sauce curry Curry de l\u00e9gumes * M\u00e9lange de c\u00e9r\u00e9ales Banana Bread Gouter Mimolette portion Pain Fruit go\u00fbter * V\u00e9g\u00e9tarien ** BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Bouguenais",
+    "date": "2026-10-30",
+    "repas": "TABOULE PAVE DU FROMAGER SALADE BATAVIA GOUDA BIO CLEMENTINE GOUTER MOELLEUX MARBRES"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Orvault",
+    "date": "2026-10-30",
+    "repas": "Mac\u00e9doine de l\u00e9gumes(BIO) Filet de colin (MSC), sauce vermeille Riz(BIO) St-Nectaire (AOP) Orange(BIO)"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Saint-Herblain",
+    "date": "2026-10-30",
+    "repas": "Salade de choux et emmental Chipolatas BIO ou Chipolatas v\u00e9g\u00e9tariennes Pur\u00e9e de pomme de terre Cr\u00e8me dessert chocolat BIO ~~"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Sautron",
+    "date": "2026-10-30",
+    "repas": "MENU HALLOWEEN   Velout\u00e9 de citrouille\u00a0  Hamburger\u00a0  R\u00f6sties  Brie fermier\u00a0  Donuts"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Nantes",
+    "date": "2026-10-30",
+    "repas": "Choux blancs  bio  et mimolette  Poisson meuni\u00e8re Pommes de terre vapeur  bio   Panacotta fraise/rhubarbe"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "La Montagne",
+    "date": "2026-10-30",
+    "repas": "Carottes r\u00e2p\u00e9es vinaigrette ** Dos de colin MSC sauce curry Curry de l\u00e9gumes * M\u00e9lange de c\u00e9r\u00e9ales Gouda Banana Bread Gouter Mimolette portion Pain Fruit go\u00fbter * V\u00e9g\u00e9tarien ** BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Brains",
+    "date": "2026-10-30",
+    "repas": "Menu Halloween:  Saucisson anti-vampire  Hachis parmentier sanguinolant au boeuf et lentilles blondes  Fromage blanc au coulis de cervelle  \u00a0  Go\u00fbter:  Baguette viennoise nature  Lait+sirop  Jus de fruits"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Saint-Herblain",
+    "date": "2026-10-30",
+    "repas": "Salade de choux et emmental Chipolatas BIO ou Chipolatas v\u00e9g\u00e9tariennes Pur\u00e9e de pomme de terre Cr\u00e8me dessert chocolat BIO ~~"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Cou\u00ebron",
+    "date": "2026-11-02",
+    "repas": "Saut\u00e9 de porc aigre doux  VG: Mijot\u00e9 de l\u00e9gumes aux pois chiches  Camembert  Compote de pommes BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Saint-Aignan de Grand Lieu",
+    "date": "2026-11-02",
+    "repas": "Axoa \u00e0 la chair de saucisses (sauce tomate oignons) P\u00e2tes BIO Brie BIO Fruit BIO de saison"
+  },
+  {
+    "id_type_menu": "2",
+    "type_menu": "Menu allergique",
+    "commune": "Nantes",
+    "date": "2026-11-02",
+    "repas": "Choux fleurs vinaigrette  Cuisse de poulet* cr\u00e8me champignons Pomme de terre vapeur  Tomme blanche Fruit  bio\u00a0  -  *Viande de volaille fran\u00e7aise"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Carquefou",
+    "date": "2026-11-02",
+    "repas": "Menu v\u00e9g\u00e9tarien   Carottes r\u00e2p\u00e9es ( Bio ) Lentilles brais\u00e9es curry ( Bio ) Riz Pilaf ( Bio ) Camembert ( Bio ) Pomme ( Bio ) -  Go\u00fbter  Pain confiture Raisin blanc"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-02",
+    "repas": "Betteraves et d\u00e9s de brebis - salade verte - Boeuf paprika Omelette nature - Pommes noisettes - Fromage blanc BIO - Coulis de fruits jaunes \u00a0  Go\u00fbter :  Far breton, fruit de saison BIO"
+  },
+  {
+    "id_type_menu": "6",
+    "type_menu": "Menu alternatif",
+    "commune": "Carquefou",
+    "date": "2026-11-02",
+    "repas": "Pas de menu alternatif pour cette date. Se r\u00e9f\u00e9rer au menu standard."
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-02",
+    "repas": "Betteraves et d\u00e9s de brebis - salade verte - Boeuf paprika Omelette nature - Pommes noisettes - Fromage blanc BIO - Coulis de fruits jaunes \u00a0  Go\u00fbter :  Far breton, fruit de saison BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Nantes",
+    "date": "2026-11-02",
+    "repas": "Carottes r\u00e2p\u00e9es vinaigrette  Brandade de morue  Emmental  bio\u00a0  Compote de pomme  bio"
+  },
+  {
+    "id_type_menu": "2",
+    "type_menu": "Menu allergique",
+    "commune": "Nantes",
+    "date": "2026-11-03",
+    "repas": "Menu v\u00e9g\u00e9tarien  - Salade de riz printani\u00e8re  Flageolets sauce tomate Riz cr\u00e9ole  bio   Chanteneige  bio  Fruits au sirop"
+  },
+  {
+    "id_type_menu": "6",
+    "type_menu": "Menu alternatif",
+    "commune": "Carquefou",
+    "date": "2026-11-03",
+    "repas": "Betteraves ( Bio ) Saucisse v\u00e9g\u00e9tale Haricots de Vend\u00e9e tomat\u00e9s ( Bio ) Croc lait ( Bio ) Kiwi ( Bio ) -  Go\u00fbter  Pain chocolat Fromage blanc"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Carquefou",
+    "date": "2026-11-03",
+    "repas": "Betteraves ( Bio ) Saucisse de Toulouse * Haricots de Vend\u00e9e tomat\u00e9s ( Bio ) Croc lait ( Bio ) Kiwi ( Bio ) -  Go\u00fbter  Pain chocolat Fromage blanc  *Viande fran\u00e7aise, Bleu Blanc Coeur"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Nantes",
+    "date": "2026-11-03",
+    "repas": "Menu v\u00e9g\u00e9tarien  - Salade et demi-oeuf  bio\u00a0\u00a0   Galette tomate/basilic et sauce tomate Bouch\u00e9es de choux fleur\u00a0  Gouda  bio  Cl\u00e9mentines  bio"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-03",
+    "repas": "Menu v\u00e9g\u00e9tarien :  - Couscou v\u00e9g\u00e9tarien - Salade verte - Camembert BIO - Fruit de saison BIO \u00a0  Go\u00fbter :  Pain, beurre et banane BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Cou\u00ebron",
+    "date": "2026-11-03",
+    "repas": "Salade de p\u00e2tes \u00e0 la mexicaine  Oeufs brouill\u00e9s BIO aux herbes  Pur\u00e9e \u00e0 la courge  Tomme BIO  Fromage blanc BBC aux fruits"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-03",
+    "repas": "Menu v\u00e9g\u00e9tarien :  - Couscou v\u00e9g\u00e9tarien - Salade verte - Camembert BIO - Fruit de saison BIO \u00a0  Go\u00fbter :  Pain, beurre et banane BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Saint-Aignan de Grand Lieu",
+    "date": "2026-11-03",
+    "repas": "Carottes r\u00e2p\u00e9es BIO vinaigrette Galette \u00e0 l'avoine et au fromage sauce curry Haricots beurre \u00e0 l'ail Riz au lait BIO et chocolat"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-04",
+    "repas": "Tartine tomates confites et mozzarella - Palette de porc \u00e0 la diable Eminc\u00e9 v\u00e9g\u00e9tarien massala - Epinards \u00e0 la cr\u00e8me - Fruit de saison BIO \u00a0  Go\u00fbter :  Gaufre sucre et lait"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Cou\u00ebron",
+    "date": "2026-11-04",
+    "repas": "Blanquette de poissons  VG: Cake aux l\u00e9gumes  Yaourt nature  Fruit de saison BIO"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-04",
+    "repas": "Tartine tomates confites et mozzarella - Palette de porc \u00e0 la diable Eminc\u00e9 v\u00e9g\u00e9tarien massala - Epinards \u00e0 la cr\u00e8me - Fruit de saison BIO \u00a0  Go\u00fbter :  Gaufre sucre et lait"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Nantes",
+    "date": "2026-11-04",
+    "repas": "Pamplemousse  Poisson sauce foresti\u00e8re Po\u00eal\u00e9e de l\u00e9gumes et potatoes  Chanteneige  bio\u00a0  \u00c9clair au chocolat"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-05",
+    "repas": "Salade de choux / Pommes BIO - Columbo de poulet Riz cantonnais v\u00e9g\u00e9tarien - Riz BIO - Cr\u00e8me chocolat BIO \u00a0  Go\u00fbter :  Marbr\u00e9, fruit de saison BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Carquefou",
+    "date": "2026-11-05",
+    "repas": "Radis beurre ( Bio ) Poisson frais du jour * Brocoli ( Bio ) Riz au lait ( Bio ) Biscuit Tam Tam -  Go\u00fbter  Pain confiture Pur\u00e9e pomme p\u00eache  *P\u00eache durable"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Saint-Aignan de Grand Lieu",
+    "date": "2026-11-05",
+    "repas": "Animation CHINE : Nems aux l\u00e9gumes Saut\u00e9 de porc BBC au caramel Riz BIO Flan p\u00e2tissier coulis de mangue"
+  },
+  {
+    "id_type_menu": "2",
+    "type_menu": "Menu allergique",
+    "commune": "Nantes",
+    "date": "2026-11-05",
+    "repas": "Salade potag\u00e8re \u00e0 la vinaigrette  Saut\u00e9 de porc* au bleu Quinoa  Camembert Fruit  bio  -  *Viande de porc fran\u00e7aise"
+  },
+  {
+    "id_type_menu": "6",
+    "type_menu": "Menu alternatif",
+    "commune": "Carquefou",
+    "date": "2026-11-05",
+    "repas": "Pas de menu alternatif pour cette date. Se r\u00e9f\u00e9rer au menu standard."
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-05",
+    "repas": "Salade de choux / Pommes BIO - Columbo de poulet Riz cantonnais v\u00e9g\u00e9tarien - Riz BIO - Cr\u00e8me chocolat BIO \u00a0  Go\u00fbter :  Marbr\u00e9, fruit de saison BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Nantes",
+    "date": "2026-11-05",
+    "repas": "Potage de l\u00e9gumes  bio   \u00c9minc\u00e9 de boeuf*  bio  sauce au poivre OU  Rio  bio  aux \u00e9pinards  Bouch\u00e9es de choux fleurs tandoori\u00a0  Mimolette Banane  bio  et \u00e9quitable -  *Viande bovine fran\u00e7aise"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Cou\u00ebron",
+    "date": "2026-11-05",
+    "repas": "Salade de chou \u00e0 la vinaigrette  Hachis Parmentier et emmental r\u00e2p\u00e9  VG: Parmentier aux lentilles corail  Salade verte  G\u00e2teau au chocolat"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Carquefou",
+    "date": "2026-11-06",
+    "repas": "Cr\u00eape au fromage\u00a0 Saut\u00e9 de porc * Carotte b\u00e2tonnet vapeur Yaourt fraise ** Banane ( Bio ) -  Go\u00fbter  Biscuit Prince Poire ( Bio )  *Viande fran\u00e7aise, Label Rouge  ** Bleu Blanc Coeur"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Cou\u00ebron",
+    "date": "2026-11-06",
+    "repas": "Velout\u00e9 orange (carotte et potiron)  Bolognaise v\u00e9g\u00e9tarienne  Spaghetti  Mimolette  Cl\u00e9mentine"
+  },
+  {
+    "id_type_menu": "6",
+    "type_menu": "Menu alternatif",
+    "commune": "Carquefou",
+    "date": "2026-11-06",
+    "repas": "Cr\u00eape au fromage\u00a0 Boulettes v\u00e9g\u00e9tales r\u00f4ties Carotte b\u00e2tonnet vapeur Yaourt fraise * Banane ( Bio ) -  Go\u00fbter  Biscuit Prince Poire ( Bio )  *Bleu Blanc Coeur"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-06",
+    "repas": "Potage aux choux-fleurs maison - Filet de lieu frais sauce hollandaise Galette de l\u00e9gumes \u00e0 la sauce tomate - Julienne de l\u00e9gume - Cantal AOP - Cheesecake Or\u00e9o \u00a0  Go\u00fbter :  Pain, p\u00e2te \u00e0 tartiner"
+  },
+  {
+    "id_type_menu": "2",
+    "type_menu": "Menu allergique",
+    "commune": "Nantes",
+    "date": "2026-11-06",
+    "repas": "Betteraves \u00e0 la vinaigrette  Poisson sauce cr\u00e8me carottes et c\u00e9leri Riz cr\u00e9ole  bio   Yaourt nature sucr\u00e9 Pur\u00e9e de pomme/banane  bio"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Nantes",
+    "date": "2026-11-06",
+    "repas": "Menu v\u00e9g\u00e9tarien  - Salade d'endives  bio   Dhal de lentilles  bio  Riz\u00a0  Fromage frais  bio  aux fruits"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-06",
+    "repas": "Potage aux choux-fleurs maison - Filet de lieu frais sauce hollandaise Galette de l\u00e9gumes \u00e0 la sauce tomate - Julienne de l\u00e9gume - Cantal AOP - Cheesecake Or\u00e9o \u00a0  Go\u00fbter :  Pain, p\u00e2te \u00e0 tartiner"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Saint-Aignan de Grand Lieu",
+    "date": "2026-11-06",
+    "repas": "Parmentier de poisson MSC Salade verte vinaigrette BIO Mimolette Fruit BIO de saison"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-09",
+    "repas": "Menu v\u00e9g\u00e9tarien :  Carottes r\u00e2p\u00e9es BIO - Chili v\u00e9g\u00e9tarien - Riz BIO - Emmantal BIO - Compote de pommes BIO \u00a0  Go\u00fbter :  Brioche tranch\u00e9e, compote"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Saint-Aignan de Grand Lieu",
+    "date": "2026-11-09",
+    "repas": "VOYAGE AU LIBAN - Wrap au houmous de pois chiches et de carotte BIO Saut\u00e9 de poulet BIO fa\u00e7on Vall\u00e9e d'Auge Brunoise de L\u00e9gumes Fromage blanc LOCAL BIO"
+  },
+  {
+    "id_type_menu": "6",
+    "type_menu": "Menu alternatif",
+    "commune": "Carquefou",
+    "date": "2026-11-09",
+    "repas": "Tarte automnale Eminc\u00e9 v\u00e9g\u00e9tal kebab Haricots verts plats\u00a0 Vacheron ( Bio ) Pur\u00e9e pomme mirabelle -  Go\u00fbter  Pain chocolat Cr\u00e8me dessert vanille"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Cou\u00ebron",
+    "date": "2026-11-09",
+    "repas": "Samoussa de l\u00e9gumes  Chili v\u00e9g\u00e9tarien  Riz BIO  Petit suisse  Fruit de saison BIO"
+  },
+  {
+    "id_type_menu": "2",
+    "type_menu": "Menu allergique",
+    "commune": "Nantes",
+    "date": "2026-11-09",
+    "repas": "Carottes r\u00e2p\u00e9es ma\u00efs, vinaigrette  Saut\u00e9 de volaille sauce moutarde\u00a0 Choux fleur  Petits suisses sucr\u00e9s Compote de pomme/p\u00eache"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Nantes",
+    "date": "2026-11-09",
+    "repas": "Menu v\u00e9g\u00e9tarien  - Betteraves  bio   Omelette  bio  P\u00e2tes  bio  et fromage r\u00e2p\u00e9  bio   Pomme  bio"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Carquefou",
+    "date": "2026-11-09",
+    "repas": "Tarte automnale Eminc\u00e9 de volaille kebab * Haricots verts plats\u00a0 Vacheron ( Bio ) Pur\u00e9e pomme mirabelle -  Go\u00fbter  Pain chocolat Cr\u00e8me dessert vanille  *Viande fran\u00e7aise"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-09",
+    "repas": "Menu v\u00e9g\u00e9tarien :  Carottes r\u00e2p\u00e9es BIO - Chili v\u00e9g\u00e9tarien - Riz BIO - Emmantal BIO - Compote de pommes BIO \u00a0  Go\u00fbter :  Brioche tranch\u00e9e, compote"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Cou\u00ebron",
+    "date": "2026-11-10",
+    "repas": "Filet de colin Hollandaise  VG: Omelette BIO nature  Haricots verts et pommes de terre  Laitage en dessert'bar  Fruits de saison BIO"
+  },
+  {
+    "id_type_menu": "2",
+    "type_menu": "Menu allergique",
+    "commune": "Nantes",
+    "date": "2026-11-10",
+    "repas": "C\u00e9leri \u00e0 la vinaigrette  Steak* hach\u00e9 sauce cr\u00e8me champignons Petits pois\u00a0  Fromage fondu  bio  Fruit  bio  -  *Viande bovine fran\u00e7aise"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-10",
+    "repas": "Velout\u00e9 BIO - Jambon sauce foresti\u00e8re Tajine de l\u00e9gumes - Gratin dauphinois - Tomme de Pyr\u00e9n\u00e9es - Fruit de saison BIO \u00a0  Go\u00fbter :  D\u00e9lice chocolat, fruit de saison BIO"
+  },
+  {
+    "id_type_menu": "6",
+    "type_menu": "Menu alternatif",
+    "commune": "Carquefou",
+    "date": "2026-11-10",
+    "repas": "Pas de menu alternatif pour cette date. Se r\u00e9f\u00e9rer au menu standard."
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-10",
+    "repas": "Velout\u00e9 BIO - Jambon sauce foresti\u00e8re Tajine de l\u00e9gumes - Gratin dauphinois - Tomme de Pyr\u00e9n\u00e9es - Fruit de saison BIO \u00a0  Go\u00fbter :  D\u00e9lice chocolat, fruit de saison BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Saint-Aignan de Grand Lieu",
+    "date": "2026-11-10",
+    "repas": "Encornets \u00e0 l'espagnole Riz cr\u00e9ole BIO Emmental BIO Fruit de saison BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Carquefou",
+    "date": "2026-11-10",
+    "repas": "Menu v\u00e9g\u00e9tarien   Salade coleslaw ( Bio ) Tortelloni tomate mozzarella ( Bio ) Salade verte ( Bio ) Rondel\u00e9 ( Bio ) Sundae caramel -  Go\u00fbter  Palet breton ( Bio ) Pur\u00e9e pomme poire"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Nantes",
+    "date": "2026-11-10",
+    "repas": "C\u00e9leri r\u00e9moulade  bio   Viande de dinde* fa\u00e7on kebab OU  Bouch\u00e9es  bio   Pommes de terre \"sourire\" et sauce ketchup  Yaourt BBC nature -  *Viande de volaille fran\u00e7aise"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Nantes",
+    "date": "2026-11-11",
+    "repas": "Jour f\u00e9ri\u00e9"
+  },
+  {
+    "id_type_menu": "6",
+    "type_menu": "Menu alternatif",
+    "commune": "Carquefou",
+    "date": "2026-11-12",
+    "repas": "Taboul\u00e9 ( Bio ) Colin en cro\u00fbte pesto rosso * Gratin de chou fleur ( Bio ) Saint Nectaire IGP Cl\u00e9mentine ( Bio ) -  Go\u00fbter  Pain cantadou Kiwi ( Bio )  *P\u00eache durable"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-12",
+    "repas": "Avocat - Blanquette de veau Dahl de lentilles coco / curry - Torsades BIO - Yaourt \u00e0 la vanille BIO \u00a0  Go\u00fbter :  Pain, emmental, fruit de saison BIO"
+  },
+  {
+    "id_type_menu": "2",
+    "type_menu": "Menu allergique",
+    "commune": "Nantes",
+    "date": "2026-11-12",
+    "repas": "Menu v\u00e9g\u00e9tarien  - Haricots verts vinaigrette  Oeufs durs sauce aurore Quinoa  Gouda Fruit  bio"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Carquefou",
+    "date": "2026-11-12",
+    "repas": "Taboul\u00e9 ( Bio ) Colin* en cro\u00fbte de chorizo** Gratin de chou fleur ( Bio ) Saint Nectaire IGP Cl\u00e9mentine ( Bio ) -  Go\u00fbter  Pain cantadou Kiwi ( Bio )  *P\u00eache durable **Origine UE"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Saint-Aignan de Grand Lieu",
+    "date": "2026-11-12",
+    "repas": "Potage de potimarron BIO : c'est de saison dans la r\u00e9gion ! Parmentier de lentilles BIO \u00e0 la tomate Salade verte BIO vinaigrette Fruit BIO de saison"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Nantes",
+    "date": "2026-11-12",
+    "repas": "Choux blanc  bio  \u00e0 la mimolette  Pilon de poulet* OU  Picoussel  Flageolets  bio   Sabl\u00e9 breton \u00e0 la framboise  bio\u00a0  -  *Viande de volaille fran\u00e7aise"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-12",
+    "repas": "Avocat - Blanquette de veau Dahl de lentilles coco / curry - Torsades BIO - Yaourt \u00e0 la vanille BIO \u00a0  Go\u00fbter :  Pain, emmental, fruit de saison BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Cou\u00ebron",
+    "date": "2026-11-12",
+    "repas": "Velout\u00e9 Dubarry BIO (Chou fleur)  Filet de finde r\u00f4ti sauce au thym  VG: Falafels mayonnaise  Frites  Fruits de saison BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Cou\u00ebron",
+    "date": "2026-11-13",
+    "repas": "R\u00f4ti de boeuf // Steak hach\u00e9 pour les maternelles  VG: lentilles fa\u00e7on bolognaise  Petits pois BIO  St Mor\u00eat  cake \u00e0 la praline rose"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-13",
+    "repas": "Salade de carottes cuites sauce orange et cumin - Boulettes de boeuf BIO Crozets aux petits l\u00e9gumes et boursin - Haricots blancs - St-Nectaire AOP - Fruit de saison BIO \u00a0  Go\u00fbter :  Cr\u00eape, confiture"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Nantes",
+    "date": "2026-11-13",
+    "repas": "Taboul\u00e9  bio   Poisson meuni\u00e8re Gratin\u00e9e de l\u00e9gumes  Saint Nectaire AOP Cl\u00e9mentines  bio"
+  },
+  {
+    "id_type_menu": "2",
+    "type_menu": "Menu allergique",
+    "commune": "Nantes",
+    "date": "2026-11-13",
+    "repas": "Carottes r\u00e2p\u00e9es  Poisson sauce bretonne Brocolis  Fromage blanc sucr\u00e9 Compote pomme/poire  bio"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Carquefou",
+    "date": "2026-11-13",
+    "repas": "Salade verte, ma\u00efs et noix Carbonade de boeuf * Boulgour ( Bio ) Vache qui rit ( Bio ) Poire ( Bio ) -  Go\u00fbter  Pain confiture Pomme ( Bio )  *Origine France, Label Rouge"
+  },
+  {
+    "id_type_menu": "6",
+    "type_menu": "Menu alternatif",
+    "commune": "Carquefou",
+    "date": "2026-11-13",
+    "repas": "Salade verte, ma\u00efs et noix Egr\u00e9n\u00e9 de pois jaune aux \u00e9pices Boulgour ( Bio ) Vache qui rit ( Bio ) Poire ( Bio ) -  Go\u00fbter  Pain confiture Pomme ( Bio )"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-13",
+    "repas": "Salade de carottes cuites sauce orange et cumin - Boulettes de boeuf BIO Crozets aux petits l\u00e9gumes et boursin - Haricots blancs - St-Nectaire AOP - Fruit de saison BIO \u00a0  Go\u00fbter :  Cr\u00eape, confiture"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Saint-Aignan de Grand Lieu",
+    "date": "2026-11-13",
+    "repas": "Escalope de porc BIO et son jus li\u00e9 thym et citron Carottes BIO brais\u00e9es Saint Paulin G\u00e2teau au yaourt BIO LOCAL et aux smarties"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-16",
+    "repas": "Salade de carotte et chou blanc BIO - Gratin de poisson Arancinis sauce aurore - C\u00e9r\u00e9ales gourmandes BIO - Yaourt fraise BIO \u00a0  Go\u00fbter :  Pain, p\u00e2te \u00e0 tartiner"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Carquefou",
+    "date": "2026-11-16",
+    "repas": "Radis beurre Filet de poulet * Pur\u00e9e de pomme de terre et patate douce ( Bio ) Cantal AOP Fromage blanc ( Bio ) -  Go\u00fbter  Pain chocolat Banane ( Bio )  *Origine France, Bleu blanc Coeur"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Saint-Aignan de Grand Lieu",
+    "date": "2026-11-16",
+    "repas": "Cr\u00eape au fromage Saut\u00e9 de dinde et son jus li\u00e9 BIO Ecras\u00e9 de courge BIO Fruit BIO de saison"
+  },
+  {
+    "id_type_menu": "6",
+    "type_menu": "Menu alternatif",
+    "commune": "Carquefou",
+    "date": "2026-11-16",
+    "repas": "Radis beurre Boulettes sarrasin et lentilles Pur\u00e9e de pomme de terre et patate douce ( Bio ) Cantal AOP Fromage blanc ( Bio ) -  Go\u00fbter  Pain chocolat Banane ( Bio )"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-16",
+    "repas": "Salade de carotte et chou blanc BIO - Gratin de poisson Arancinis sauce aurore - C\u00e9r\u00e9ales gourmandes BIO - Yaourt fraise BIO \u00a0  Go\u00fbter :  Pain, p\u00e2te \u00e0 tartiner"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Nantes",
+    "date": "2026-11-16",
+    "repas": "Pizza  Poisson sauce au beurre blanc Carottes  bio   \u00c9dam  bio  Orange  bio"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Cou\u00ebron",
+    "date": "2026-11-16",
+    "repas": "Eminc\u00e9 de porc sauce grand m\u00e8re  VG: Haricots blancs tomat\u00e9s  Brocolis BIO et pommes de terre  Rondel\u00e9  Cr\u00e8me dessert vanille BIO"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-17",
+    "repas": "Oeuf dur, mayonnaise maison - Saut\u00e9 de dinde aux paprika Eminc\u00e9s v\u00e9g\u00e9 au curry - Petit pois BIO - Camembert BIO - Fruit de saison BIO \u00a0 Go\u00fbter : Far breton, fruit de saison BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Saint-Aignan de Grand Lieu",
+    "date": "2026-11-17",
+    "repas": "Fricass\u00e9e de colin MSC gratin\u00e9 Riz BIO cr\u00e9ole Fromage de ch\u00e8vre LOCAL (Ferme de la Morici\u00e8re) Compote aux pommes LOCALES"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Nantes",
+    "date": "2026-11-17",
+    "repas": "Houmous de betteraves  bio  et chips tortilla de sorgho  bio   Aiguillettes de poulet* pan\u00e9es OU  Bouch\u00e9es de courgette et f\u00e9ta  bio   Petits pois  bio   Saint Paulin  bio  Poire  bio  -  *Viande de volaille fran\u00e7aise"
+  },
+  {
+    "id_type_menu": "6",
+    "type_menu": "Menu alternatif",
+    "commune": "Carquefou",
+    "date": "2026-11-17",
+    "repas": "Carottes r\u00e2p\u00e9es ( Bio ) Omelette ( Bio )\u00a0 Frites Edam ( Bio ) Brass\u00e9 v\u00e9g\u00e9tal framboise coco -  Go\u00fbter  Quatre-quarts Yaourt sucr\u00e9  *Origine France"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Cou\u00ebron",
+    "date": "2026-11-17",
+    "repas": "Potage de l\u00e9gumes  Falafels sauce yaourt  Boulgour BIO  Brie BIO  Fruit de saison BIO"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-17",
+    "repas": "Oeuf dur, mayonnaise maison - Saut\u00e9 de dinde aux paprika Eminc\u00e9s v\u00e9g\u00e9 au curry - Petit pois BIO - Camembert BIO - Fruit de saison BIO \u00a0 Go\u00fbter : Far breton, fruit de saison BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Carquefou",
+    "date": "2026-11-17",
+    "repas": "Carottes r\u00e2p\u00e9es ( Bio ) R\u00f4ti de boeuf ( Bio ) * Frites Edam ( Bio ) Brass\u00e9 v\u00e9g\u00e9tal framboise coco -  Go\u00fbter  Quatre-quarts Yaourt sucr\u00e9  *Origine France"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-18",
+    "repas": "Menu v\u00e9g\u00e9tarien :  Salade iceberg - Omelette nature - Ratatouille - riz BIO - Yaourt nature BIO \u00a0  Go\u00fbter :  Pain, beurre et banane BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Nantes",
+    "date": "2026-11-18",
+    "repas": "Cr\u00eapes emmental  Saut\u00e9 de porc*  bio  au gingembre OU  Sorgho \u00e0 la patate douce  bio   Bouch\u00e9es de choux fleurs  Comt\u00e9 AOP Cl\u00e9mentines  bio  -  *Viande de porc  bio"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-18",
+    "repas": "Menu v\u00e9g\u00e9tarien :  Salade iceberg - Omelette nature - Ratatouille - riz BIO - Yaourt nature BIO \u00a0  Go\u00fbter :  Pain, beurre et banane BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Cou\u00ebron",
+    "date": "2026-11-18",
+    "repas": "Salade coleslaw  Gratin de tortis montagnard au potiron  Salade verte  Tomme BIO  Mousse au chocolat"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-19",
+    "repas": "Menu v\u00e9g\u00e9tarien :  Salade de crozets-ma\u00efs - Pizza au fromage - M\u00e2che HVE - Compote de fruits maison BIO \u00a0  Go\u00fbter :  Gaufre sucre et lait"
+  },
+  {
+    "id_type_menu": "6",
+    "type_menu": "Menu alternatif",
+    "commune": "Carquefou",
+    "date": "2026-11-19",
+    "repas": "Pas de menu alternatif pour cette date. Se r\u00e9f\u00e9rer au menu standard."
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Saint-Aignan de Grand Lieu",
+    "date": "2026-11-19",
+    "repas": "C'est local et bio ! : Saut\u00e9 de b?uf \u00e0 la moutarde (Vache Nantaise bio) Haricots verts BIO Tomme des Pyr\u00e9n\u00e9es IGP Cr\u00e8me dessert \u00e0 la vanille"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Cou\u00ebron",
+    "date": "2026-11-19",
+    "repas": "Saut\u00e9 de volaille Yassa  VG: Colombo de l\u00e9gumes aux f\u00e8ves  Pur\u00e9e d'igname  Fournois  Melktert (tarte au lait cr\u00e9meuse)"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-19",
+    "repas": "Menu v\u00e9g\u00e9tarien :  Salade de crozets-ma\u00efs - Pizza au fromage - M\u00e2che HVE - Compote de fruits maison BIO \u00a0  Go\u00fbter :  Gaufre sucre et lait"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Nantes",
+    "date": "2026-11-19",
+    "repas": "Menu v\u00e9g\u00e9tarien  - Demi-pamplemousse  bio   Lasagnes v\u00e9g\u00e9tariennes Salade verte  Yaourt fermier  bio  et abricots secs"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Carquefou",
+    "date": "2026-11-19",
+    "repas": "Menu v\u00e9g\u00e9tarien   Betteraves ( Bio ) Couscous v\u00e9g\u00e9tarien\u00a0 Petit filou chocolat Dessert fruitier pomme ( Bio ) -  Go\u00fbter  Pain confiture Pomme ( Bio )"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Saint-Aignan de Grand Lieu",
+    "date": "2026-11-20",
+    "repas": "C\u00e9leri rave BIO r\u00e9moulade Omelette BIO \u00e0 l'Emmental Pommes de terre BIO r\u00f4ties au thym Fruit BIO de saison"
+  },
+  {
+    "id_type_menu": "6",
+    "type_menu": "Menu alternatif",
+    "commune": "Carquefou",
+    "date": "2026-11-20",
+    "repas": "Salade de m\u00e2che et 1/4 d'oeuf ( Bio ) Coeur de merlu* Brocoli vapeur ( Bio ) Samos Tarte aux pommes -  Go\u00fbter  Pain chocolat Compote pomme framboise  *P\u00eache durable"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Carquefou",
+    "date": "2026-11-20",
+    "repas": "Salade de m\u00e2che et 1/4 d'oeuf ( Bio ) R\u00f4ti de porc sauce paprika * Brocoli vapeur ( Bio ) Samos Tarte aux pommes -  Go\u00fbter  Pain chocolat Compote pomme framboise  *Viande fran\u00e7aise, Label Rouge"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-20",
+    "repas": "Velout\u00e9 BIO - Chipolata BIO Croq v\u00e9g\u00e9 - Lentilles - Cr\u00e9meux de Verdais BIO - Fruit de saison BIO \u00a0  Go\u00fbter :  Marbr\u00e9, fruit de saison BIO"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-20",
+    "repas": "Velout\u00e9 BIO - Chipolata BIO Croq v\u00e9g\u00e9 - Lentilles - Cr\u00e9meux de Verdais BIO - Fruit de saison BIO \u00a0  Go\u00fbter :  Marbr\u00e9, fruit de saison BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Cou\u00ebron",
+    "date": "2026-11-20",
+    "repas": "Rillettes de porc  VG: oeuf dur Mayolait  Poisson pan\u00e9  VG: Quiche v\u00e9g\u00e9tarienne  Julienne de l\u00e9gumes et riz BIO  Fruit de saison BIO"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-23",
+    "repas": "Velout\u00e9 aux 7 l\u00e9gumes - Hachis parmentier maison Saucisse v\u00e9g\u00e9 - Ecras\u00e9 de pomme de terre, cr\u00e8me fraiche et emmental BIO - Buchette de ch\u00e8vre BIO - Fruit de saison BIO \u00a0  Go\u00fbter :  Cr\u00eape confiture"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Cou\u00ebron",
+    "date": "2026-11-23",
+    "repas": "Filet de poulet r\u00f4ti au jus d'ail  Bolognaise de lentilles BIO  Chou fleur bio vapeur et semoule BIO  Vache qui rit BIO  Yaourt Vanille BIO"
+  },
+  {
+    "id_type_menu": "6",
+    "type_menu": "Menu alternatif",
+    "commune": "Carquefou",
+    "date": "2026-11-23",
+    "repas": "C\u00e9leri r\u00e9moulade ( Bio ) Cordon bleu tomate fromage Gratin d'\u00e9pinard Cr\u00e8me chocolat ( Bio ) Petit beurre ( Bio ) -  Go\u00fbter  Pain chocolat\u00a0 Cl\u00e9mentine ( Bio )"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Saint-Aignan de Grand Lieu",
+    "date": "2026-11-23",
+    "repas": "Betteraves BIO vinaigrette Jambon grill\u00e9 sauce ketchup Frites Fruit BIO de saison"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-23",
+    "repas": "Velout\u00e9 aux 7 l\u00e9gumes - Hachis parmentier maison Saucisse v\u00e9g\u00e9 - Ecras\u00e9 de pomme de terre, cr\u00e8me fraiche et emmental BIO - Buchette de ch\u00e8vre BIO - Fruit de saison BIO \u00a0  Go\u00fbter :  Cr\u00eape confiture"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Carquefou",
+    "date": "2026-11-23",
+    "repas": "C\u00e9leri r\u00e9moulade ( Bio ) Cordon bleu ( Bio ) * Gratin d'\u00e9pinard Cr\u00e8me chocolat ( Bio ) Petit beurre ( Bio ) -  Go\u00fbter  Pain chocolat\u00a0 Cl\u00e9mentine ( Bio )  *Viande fran\u00e7aise"
+  },
+  {
+    "id_type_menu": "6",
+    "type_menu": "Menu alternatif",
+    "commune": "Carquefou",
+    "date": "2026-11-24",
+    "repas": "Salade fris\u00e9e aux cro\u00fbtons et noix ( Bio ) Petit colin * Pomme vapeur Six de Savoie Ananas ( Bio ) -  Go\u00fbter  Pain confiture Yaourt ( Bio )  *P\u00eache durable"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-24",
+    "repas": "Salade de choux aux pommes BIO - Aiguillette de poulet pan\u00e9 Dalh de bl\u00e9 BIO - Epinards \u00e0 la cr\u00e8me coco - Yaourt nature BIO - Tarte pomme-cassis \u00a0  Go\u00fbter :  Brioche tranch\u00e9e, compote"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Carquefou",
+    "date": "2026-11-24",
+    "repas": "Salade fris\u00e9e aux cro\u00fbtons et noix ( Bio ) Saut\u00e9 de boeuf\u00a0* Pomme vapeur Six de Savoie Ananas ( Bio ) -  Go\u00fbter  Pain confiture Yaourt ( Bio )  *Viande fran\u00e7aise, Label Rouge"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Cou\u00ebron",
+    "date": "2026-11-24",
+    "repas": "Salade de p\u00e2tes, carottes et ma\u00efs BIO  Arancinis BIO (boulettes de riz pan\u00e9es et garnies)  Po\u00eal\u00e9e de l\u00e9gumes  Petit suisse  Fruit de saison BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Saint-Aignan de Grand Lieu",
+    "date": "2026-11-24",
+    "repas": "Potage aux l\u00e9gumes BIO Galette de carottes BIO mozzarella et chapelure Salade verte BIO vinaigrette Banane BIO au chocolat"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-24",
+    "repas": "Salade de choux aux pommes BIO - Aiguillette de poulet pan\u00e9 Dalh de bl\u00e9 BIO - Epinards \u00e0 la cr\u00e8me coco - Yaourt nature BIO - Tarte pomme-cassis \u00a0  Go\u00fbter :  Brioche tranch\u00e9e, compote"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-25",
+    "repas": "Chou-fleur gr\u00e9n\u00e9 et pommes de terre BIO \u00a0 - \u00a0 Roustille de poisson sauce tomate \u00a0 Penne, pesto, citron et mozzarella \u00a0 - \u00a0 Semoule BIO \u00a0 - \u00a0 Pana cotta maison - coulis de fruits rouges \u00a0 \u00a0 \u00a0 Go\u00fbter : \u00a0 D\u00e9lice chocolat, fruit de saison BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Cou\u00ebron",
+    "date": "2026-11-25",
+    "repas": "Palette de porc sauce moutarde  VG: Omelette BIO nature  Pommes de terre vapeur et compot\u00e9e de chou rouge  Emmental  Flan napp\u00e9 de caramel BIO"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-25",
+    "repas": "Chou-fleur gr\u00e9n\u00e9 et pommes de terre BIO - Roustille de poisson sauce tomate Penne, pesto, citron et mozzarella - Semoule BIO - Pana cotta maison - coulis de fruits rouges \u00a0  Go\u00fbter :  D\u00e9lice chocolat, fruit de saison BIO"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Saint-Aignan de Grand Lieu",
+    "date": "2026-11-26",
+    "repas": "Bolognaise au boeuf BIO P\u00e2tes BIO Emmental r\u00e2p\u00e9 Compote aux pommes LOCALES"
+  },
+  {
+    "id_type_menu": "3",
+    "type_menu": "Menu \u00e9l\u00e9mentaire",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-26",
+    "repas": "Rillette de sardine maison - cracotte Houmous de pois chiche maison - R\u00f4ti de veau tandoori Omelette au fromage - Mousseline de potiron - Fromage \u00e0 la cr\u00e8me BIO - Fruit de saison BIO \u00a0  Go\u00fbter :  Quatre-quart et petit suisse"
+  },
+  {
+    "id_type_menu": "6",
+    "type_menu": "Menu alternatif",
+    "commune": "Carquefou",
+    "date": "2026-11-26",
+    "repas": "Sardine \u00e0 l'huile Poisson frais du jour * Etuve de carotte et panais ( Bio ) Brie ( Bio ) Quartier d'orange ( Bio ) -  Go\u00fbter  Brioche Pur\u00e9e pomme vanille  *P\u00eache durable"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Cou\u00ebron",
+    "date": "2026-11-26",
+    "repas": "Carottes r\u00e2p\u00e9es BIO \u00e0 la vinaigrette et d\u00e9s de fromage  Merlu sauce Aurore  VG: Cake v\u00e9g\u00e9tarien  Fondue de poireaux et bl\u00e9 BIO  Fondat \u00e0 l'orange"
+  },
+  {
+    "id_type_menu": "4",
+    "type_menu": "Menu maternelle",
+    "commune": "Rez\u00e9",
+    "date": "2026-11-26",
+    "repas": "Rillette de sardine maison - cracotte Houmous de pois chiche maison - R\u00f4ti de veau tandoori Omelette au fromage - Mousseline de potiron - Fromage \u00e0 la cr\u00e8me BIO - Fruit de saison BIO \u00a0  Go\u00fbter :  Quatre-quart et petit suisse"
+  },
+  {
+    "id_type_menu": "1",
+    "type_menu": "Menu standard",
+    "commune": "Carquefou",
+    "date": "2026-11-26",
+    "repas": "Terrine de campagne * Poisson frais du jour ** Etuve de carotte et panais ( Bio ) Brie ( Bio ) Quartier d'orange ( Bio ) -  Go\u00fbter  Brioche Pur\u00e9e pomme vanille  *Viande fran\u00e7aise **P\u00eache durable"
+  }
+]
