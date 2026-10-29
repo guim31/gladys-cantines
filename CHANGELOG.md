@@ -4,7 +4,11 @@ All notable changes to this integration are documented in this file. The format
 follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and the project
 uses [semantic versioning](https://semver.org/).
 
-Describe each change under `## [Unreleased]
+Describe each change under `## [Unreleased]` as you make it. The Release
+workflow moves that section under the version it ships, and the section becomes
+the notes of the version's GitHub Release.
+
+## [Unreleased]
 
 ### Added
 
@@ -24,3 +28,5 @@ Describe each change under `## [Unreleased]
   evening.
 - Feature names and messages in English, French, German and Spanish;
   documentation in the four languages.
+
+[Unreleased]: https://github.com/guim31/gladys-cantines/commits/main
