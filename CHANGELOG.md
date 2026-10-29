@@ -10,6 +10,8 @@ the notes of the version's GitHub Release.
 
 ## [Unreleased]
 
+## [1.0.0] - 2026-10-29
+
 ### Added
 
 - The school canteen menus of Toulouse (nursery and primary schools), Rennes
@@ -29,4 +31,5 @@ the notes of the version's GitHub Release.
 - Feature names and messages in English, French, German and Spanish;
   documentation in the four languages.
 
-[Unreleased]: https://github.com/guim31/gladys-cantines/commits/main
+[Unreleased]: https://github.com/guim31/gladys-cantines/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/guim31/gladys-cantines/releases/tag/v1.0.0
