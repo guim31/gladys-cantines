@@ -1,177 +1,655 @@
 {
   "manifest_version": 1,
   "type": "device",
-  "name": "Demo Devices Template",
+  "name": "Menus des cantines",
   "description": {
-    "en": "Starter template showing sensors, a switch, a dimmable light and a smart plug.",
-    "fr": "Template de démarrage : capteurs, interrupteur, lampe variable et prise connectée."
+    "en": "School canteen menus of French cities (open data): Toulouse, Rennes, Nantes Métropole.",
+    "fr": "Menus des cantines scolaires de villes françaises (open data) : Toulouse, Rennes, Nantes Métropole.",
+    "de": "Schulkantinen-Menüs französischer Städte (Open Data): Toulouse, Rennes, Nantes Métropole.",
+    "es": "Menús de comedores escolares de ciudades francesas (datos abiertos): Toulouse, Rennes, Nantes."
   },
   "version": "1.0.0",
-  "docker_image": "ghcr.io/gladysassistant/integration-template-js:1.0.0",
-  "gladys_version": ">=5.1.0",
-  "cover_image": "https://raw.githubusercontent.com/GladysAssistant/integration-template-js/master/cover.png",
-  "categories": ["lighting", "security", "environment"],
-  "transports": ["local", "cloud"],
+  "docker_image": "ghcr.io/guim31/gladys-cantines:1.0.0",
+  "gladys_version": ">=5.3.0",
+  "cover_image": "https://raw.githubusercontent.com/guim31/gladys-cantines/main/cover.png",
+  "categories": ["services"],
+  "transports": ["cloud"],
+  "countries": ["FR"],
+  "keywords": [
+    "cantine",
+    "menu",
+    "école",
+    "school canteen",
+    "Toulouse",
+    "Rennes",
+    "Nantes",
+    "open data"
+  ],
   "config_schema": [
     {
       "key": "intro",
       "type": "section",
-      "label": { "en": "Getting started", "fr": "Pour commencer" },
+      "label": {
+        "en": "How it works",
+        "fr": "Fonctionnement",
+        "de": "So funktioniert es",
+        "es": "Funcionamiento"
+      },
       "description": {
-        "en": "The demo weather station reads real data from the free Open-Meteo API: pick the coordinates to observe. No account, no API key.",
-        "fr": "La station météo de démonstration lit de vraies données via l'API gratuite Open-Meteo : choisissez les coordonnées à observer. Pas de compte, pas de clé d'API."
+        "en": "Tick your city and save: its menus appear in the Discover tab. Add yours to Gladys. No account, no key.",
+        "fr": "Cochez votre ville et enregistrez : ses menus apparaissent dans l'onglet Découverte. Ajoutez le vôtre à Gladys. Sans compte ni clé.",
+        "de": "Kreuze deine Stadt an und speichere: ihre Menüs erscheinen im Tab „Entdecken“. Füge deines zu Gladys hinzu. Kein Konto, kein Schlüssel.",
+        "es": "Marque su ciudad y guarde: sus menús aparecen en la pestaña Descubrir. Añada el suyo a Gladys. Sin cuenta ni clave."
       },
       "links": [
         {
-          "url": "https://open-meteo.com/en/docs",
-          "label": { "en": "Open-Meteo documentation", "fr": "Documentation Open-Meteo" }
+          "url": "https://github.com/guim31/gladys-cantines/blob/main/docs/en.md",
+          "label": {
+            "en": "Setup guide",
+            "fr": "Guide de configuration",
+            "de": "Einrichtungsanleitung",
+            "es": "Guía de configuración"
+          }
         }
       ]
     },
     {
-      "key": "latitude",
-      "type": "number",
-      "label": { "en": "Latitude", "fr": "Latitude" },
-      "description": {
-        "en": "Latitude used for the demo weather sensor.",
-        "fr": "Latitude utilisée par le capteur météo de démonstration."
+      "key": "cities",
+      "type": "multi_select",
+      "label": {
+        "en": "Cities",
+        "fr": "Villes",
+        "de": "Städte",
+        "es": "Ciudades"
       },
-      "placeholder": { "en": "e.g. 48.8566", "fr": "ex. 48.8566" },
-      "required": true,
-      "default": 48.8566,
-      "min": -90,
-      "max": 90
-    },
-    {
-      "key": "longitude",
-      "type": "number",
-      "label": { "en": "Longitude", "fr": "Longitude" },
       "description": {
-        "en": "Longitude used for the demo weather sensor.",
-        "fr": "Longitude utilisée par le capteur météo de démonstration."
+        "en": "Cities that publish their canteen menus in open data. Others: see the guide.",
+        "fr": "Villes qui publient les menus de leurs cantines en open data. Autres villes : voir le guide.",
+        "de": "Städte, die ihre Kantinen-Menüs als Open Data veröffentlichen. Andere Städte: siehe Anleitung.",
+        "es": "Ciudades que publican los menús de sus comedores en datos abiertos. Otras: vea la guía."
       },
-      "placeholder": { "en": "e.g. 2.3522", "fr": "ex. 2.3522" },
-      "required": true,
-      "default": 2.3522,
-      "min": -180,
-      "max": 180
-    },
-    {
-      "key": "unit",
-      "type": "select",
-      "label": { "en": "Temperature unit", "fr": "Unité de température" },
-      "required": false,
-      "default": "celsius",
       "options": [
-        { "value": "celsius", "label": { "en": "Celsius", "fr": "Celsius" } },
-        { "value": "fahrenheit", "label": { "en": "Fahrenheit", "fr": "Fahrenheit" } }
+        {
+          "value": "toulouse",
+          "label": {
+            "en": "Toulouse (nursery, primary)",
+            "fr": "Toulouse (maternelle, élémentaire)",
+            "de": "Toulouse (Vorschule, Grundschule)",
+            "es": "Toulouse (infantil, primaria)"
+          }
+        },
+        {
+          "value": "rennes",
+          "label": {
+            "en": "Rennes (three school sectors)",
+            "fr": "Rennes (trois secteurs scolaires)",
+            "de": "Rennes (drei Schulsektoren)",
+            "es": "Rennes (tres sectores escolares)"
+          }
+        },
+        {
+          "value": "nantes",
+          "label": {
+            "en": "Nantes Métropole (Nantes, Rezé, Orvault…)",
+            "fr": "Nantes Métropole (Nantes, Rezé, Orvault…)",
+            "de": "Nantes Métropole (Nantes, Rezé, Orvault…)",
+            "es": "Nantes Métropole (Nantes, Rezé, Orvault…)"
+          }
+        }
       ]
     },
     {
-      "key": "poll_frequency",
-      "type": "number",
-      "label": { "en": "Refresh interval (s)", "fr": "Intervalle de rafraîchissement (s)" },
-      "description": {
-        "en": "How often sensors are polled, in seconds (one minute minimum).",
-        "fr": "Fréquence d'interrogation des capteurs, en secondes (une minute minimum)."
-      },
+      "key": "watched_words",
+      "type": "string",
       "required": false,
-      "default": 300,
-      "min": 60,
-      "max": 3600
+      "label": {
+        "en": "Watched words",
+        "fr": "Mots surveillés",
+        "de": "Überwachte Wörter",
+        "es": "Palabras vigiladas"
+      },
+      "description": {
+        "en": "Comma-separated, for the \"Watched dish on the menu\" trigger.",
+        "fr": "Séparés par des virgules, pour le déclencheur « Plat surveillé au menu ».",
+        "de": "Durch Kommas getrennt, für den Auslöser „Überwachtes Gericht im Menü“.",
+        "es": "Separadas por comas, para el disparador «Plato vigilado en el menú»."
+      },
+      "placeholder": {
+        "en": "frites, pizza, poisson",
+        "fr": "frites, pizza, poisson",
+        "de": "frites, pizza, poisson",
+        "es": "frites, pizza, poisson"
+      }
+    },
+    {
+      "key": "refresh_interval",
+      "type": "select",
+      "default": "6",
+      "label": {
+        "en": "Refresh",
+        "fr": "Rafraîchissement",
+        "de": "Aktualisierung",
+        "es": "Actualización"
+      },
+      "options": [
+        {
+          "value": "3",
+          "label": {
+            "en": "Every 3 hours",
+            "fr": "Toutes les 3 heures",
+            "de": "Alle 3 Stunden",
+            "es": "Cada 3 horas"
+          }
+        },
+        {
+          "value": "6",
+          "label": {
+            "en": "Every 6 hours",
+            "fr": "Toutes les 6 heures",
+            "de": "Alle 6 Stunden",
+            "es": "Cada 6 horas"
+          }
+        },
+        {
+          "value": "12",
+          "label": {
+            "en": "Every 12 hours",
+            "fr": "Toutes les 12 heures",
+            "de": "Alle 12 Stunden",
+            "es": "Cada 12 horas"
+          }
+        }
+      ]
+    },
+    {
+      "key": "language",
+      "type": "select",
+      "default": "fr",
+      "label": {
+        "en": "Language of names and messages",
+        "fr": "Langue des noms et messages",
+        "de": "Sprache der Namen und Nachrichten",
+        "es": "Idioma de nombres y mensajes"
+      },
+      "description": {
+        "en": "Feature names are fixed when a device is added.",
+        "fr": "Les noms des fonctionnalités sont figés à l'ajout de l'appareil.",
+        "de": "Die Namen der Funktionen werden beim Hinzufügen festgelegt.",
+        "es": "Los nombres de las funciones se fijan al añadir el dispositivo."
+      },
+      "options": [
+        {
+          "value": "en",
+          "label": {
+            "en": "English",
+            "fr": "Anglais",
+            "de": "Englisch",
+            "es": "Inglés"
+          }
+        },
+        {
+          "value": "fr",
+          "label": {
+            "en": "French",
+            "fr": "Français",
+            "de": "Französisch",
+            "es": "Francés"
+          }
+        },
+        {
+          "value": "de",
+          "label": {
+            "en": "German",
+            "fr": "Allemand",
+            "de": "Deutsch",
+            "es": "Alemán"
+          }
+        },
+        {
+          "value": "es",
+          "label": {
+            "en": "Spanish",
+            "fr": "Espagnol",
+            "de": "Spanisch",
+            "es": "Español"
+          }
+        }
+      ]
     }
   ],
   "actions": [
     {
-      "key": "test_weather",
-      "label": { "en": "Test the weather provider", "fr": "Tester le fournisseur météo" },
-      "timeout_seconds": 30
-    },
-    {
-      "key": "identify",
-      "label": { "en": "Identify a device", "fr": "Identifier un appareil" },
-      "fields": [
-        {
-          "key": "device",
-          "type": "select",
-          "source": "devices",
-          "label": { "en": "Device", "fr": "Appareil" },
-          "required": true
-        }
-      ]
+      "key": "status",
+      "label": {
+        "en": "Status",
+        "fr": "État",
+        "de": "Status",
+        "es": "Estado"
+      },
+      "description": {
+        "en": "Cities read, menus found, last day published, errors.",
+        "fr": "Villes lues, menus trouvés, dernier jour publié, erreurs.",
+        "de": "Gelesene Städte, gefundene Menüs, letzter veröffentlichter Tag, Fehler.",
+        "es": "Ciudades leídas, menús encontrados, último día publicado, errores."
+      },
+      "timeout_seconds": 30,
+      "fields": []
     }
   ],
   "scene_triggers": [
     {
-      "key": "motion_detected",
-      "label": { "en": "Motion detected", "fr": "Mouvement détecté" },
+      "key": "vegetarian_menu",
+      "label": {
+        "en": "Vegetarian menu",
+        "fr": "Menu végétarien",
+        "de": "Vegetarisches Menü",
+        "es": "Menú vegetariano"
+      },
       "description": {
-        "en": "A demo motion sensor saw a person or an animal move.",
-        "fr": "Un détecteur de démonstration a vu bouger une personne ou un animal."
+        "en": "A watched menu is vegetarian today or tomorrow (when the city says so).",
+        "fr": "Un menu suivi est végétarien aujourd'hui ou demain (quand la ville l'indique).",
+        "de": "Ein verfolgtes Menü ist heute oder morgen vegetarisch (wenn die Stadt es angibt).",
+        "es": "Un menú vigilado es vegetariano hoy o mañana (cuando la ciudad lo indica)."
       },
       "fields": [
         {
-          "key": "device",
-          "type": "select",
+          "key": "menu",
+          "type": "multi_select",
           "source": "devices",
-          "label": { "en": "Sensor", "fr": "Détecteur" }
+          "required": false,
+          "label": {
+            "en": "Menus",
+            "fr": "Menus",
+            "de": "Menüs",
+            "es": "Menús"
+          },
+          "description": {
+            "en": "Empty: any watched menu.",
+            "fr": "Vide : n'importe quel menu suivi.",
+            "de": "Leer: jedes verfolgte Menü.",
+            "es": "Vacío: cualquier menú vigilado."
+          }
         },
         {
-          "key": "target",
-          "type": "multi_select",
-          "label": { "en": "What moved", "fr": "Ce qui a bougé" },
+          "key": "day",
+          "type": "select",
+          "required": true,
+          "label": {
+            "en": "Day",
+            "fr": "Jour",
+            "de": "Tag",
+            "es": "Día"
+          },
+          "description": {
+            "en": "Today: fired between 7:00 and 10:00. Tomorrow: between 18:00 and 21:00.",
+            "fr": "Aujourd'hui : envoyé entre 7 h et 10 h. Demain : entre 18 h et 21 h.",
+            "de": "Heute: ausgelöst zwischen 7 und 10 Uhr. Morgen: zwischen 18 und 21 Uhr.",
+            "es": "Hoy: se envía entre las 7:00 y las 10:00. Mañana: entre las 18:00 y las 21:00."
+          },
           "options": [
-            { "value": "person", "label": { "en": "Person", "fr": "Personne" } },
-            { "value": "animal", "label": { "en": "Animal", "fr": "Animal" } }
+            {
+              "value": "today",
+              "label": {
+                "en": "Today",
+                "fr": "Aujourd'hui",
+                "de": "Heute",
+                "es": "Hoy"
+              }
+            },
+            {
+              "value": "tomorrow",
+              "label": {
+                "en": "Tomorrow",
+                "fr": "Demain",
+                "de": "Morgen",
+                "es": "Mañana"
+              }
+            }
           ]
         }
       ],
       "variables": [
         {
-          "key": "target",
+          "key": "menu_name",
           "type": "string",
-          "label": { "en": "What moved", "fr": "Ce qui a bougé" }
+          "label": {
+            "en": "Menu",
+            "fr": "Menu",
+            "de": "Menü",
+            "es": "Menú"
+          }
+        },
+        {
+          "key": "date",
+          "type": "string",
+          "label": {
+            "en": "Date (YYYY-MM-DD)",
+            "fr": "Date (AAAA-MM-JJ)",
+            "de": "Datum (JJJJ-MM-TT)",
+            "es": "Fecha (AAAA-MM-DD)"
+          }
+        },
+        {
+          "key": "menu_text",
+          "type": "string",
+          "label": {
+            "en": "Whole meal",
+            "fr": "Repas complet",
+            "de": "Ganzes Essen",
+            "es": "Comida completa"
+          }
+        }
+      ]
+    },
+    {
+      "key": "watched_dish",
+      "label": {
+        "en": "Watched dish on the menu",
+        "fr": "Plat surveillé au menu",
+        "de": "Überwachtes Gericht im Menü",
+        "es": "Plato vigilado en el menú"
+      },
+      "description": {
+        "en": "A dish of a watched menu contains one of the watched words of the configuration.",
+        "fr": "Un plat d'un menu suivi contient un des mots surveillés de la configuration.",
+        "de": "Ein Gericht eines verfolgten Menüs enthält eines der überwachten Wörter der Konfiguration.",
+        "es": "Un plato de un menú vigilado contiene una de las palabras vigiladas de la configuración."
+      },
+      "fields": [
+        {
+          "key": "menu",
+          "type": "multi_select",
+          "source": "devices",
+          "required": false,
+          "label": {
+            "en": "Menus",
+            "fr": "Menus",
+            "de": "Menüs",
+            "es": "Menús"
+          },
+          "description": {
+            "en": "Empty: any watched menu.",
+            "fr": "Vide : n'importe quel menu suivi.",
+            "de": "Leer: jedes verfolgte Menü.",
+            "es": "Vacío: cualquier menú vigilado."
+          }
+        },
+        {
+          "key": "day",
+          "type": "select",
+          "required": true,
+          "label": {
+            "en": "Day",
+            "fr": "Jour",
+            "de": "Tag",
+            "es": "Día"
+          },
+          "description": {
+            "en": "Today: fired between 7:00 and 10:00. Tomorrow: between 18:00 and 21:00.",
+            "fr": "Aujourd'hui : envoyé entre 7 h et 10 h. Demain : entre 18 h et 21 h.",
+            "de": "Heute: ausgelöst zwischen 7 und 10 Uhr. Morgen: zwischen 18 und 21 Uhr.",
+            "es": "Hoy: se envía entre las 7:00 y las 10:00. Mañana: entre las 18:00 y las 21:00."
+          },
+          "options": [
+            {
+              "value": "today",
+              "label": {
+                "en": "Today",
+                "fr": "Aujourd'hui",
+                "de": "Heute",
+                "es": "Hoy"
+              }
+            },
+            {
+              "value": "tomorrow",
+              "label": {
+                "en": "Tomorrow",
+                "fr": "Demain",
+                "de": "Morgen",
+                "es": "Mañana"
+              }
+            }
+          ]
+        },
+        {
+          "key": "word",
+          "type": "string",
+          "required": false,
+          "label": {
+            "en": "Word",
+            "fr": "Mot",
+            "de": "Wort",
+            "es": "Palabra"
+          },
+          "description": {
+            "en": "Empty: any watched word. Else in lower case, as in the configuration.",
+            "fr": "Vide : n'importe quel mot surveillé. Sinon en minuscules, comme dans la configuration.",
+            "de": "Leer: jedes überwachte Wort. Sonst kleingeschrieben, wie in der Konfiguration.",
+            "es": "Vacío: cualquier palabra vigilada. Si no, en minúsculas, como en la configuración."
+          }
+        }
+      ],
+      "variables": [
+        {
+          "key": "menu_name",
+          "type": "string",
+          "label": {
+            "en": "Menu",
+            "fr": "Menu",
+            "de": "Menü",
+            "es": "Menú"
+          }
+        },
+        {
+          "key": "date",
+          "type": "string",
+          "label": {
+            "en": "Date (YYYY-MM-DD)",
+            "fr": "Date (AAAA-MM-JJ)",
+            "de": "Datum (JJJJ-MM-TT)",
+            "es": "Fecha (AAAA-MM-DD)"
+          }
+        },
+        {
+          "key": "menu_text",
+          "type": "string",
+          "label": {
+            "en": "Whole meal",
+            "fr": "Repas complet",
+            "de": "Ganzes Essen",
+            "es": "Comida completa"
+          }
+        },
+        {
+          "key": "word",
+          "type": "string",
+          "label": {
+            "en": "Word",
+            "fr": "Mot",
+            "de": "Wort",
+            "es": "Palabra"
+          }
+        },
+        {
+          "key": "dish",
+          "type": "string",
+          "label": {
+            "en": "Dish",
+            "fr": "Plat",
+            "de": "Gericht",
+            "es": "Plato"
+          }
         }
       ]
     }
   ],
   "scene_actions": [
     {
-      "key": "identify_device",
-      "label": { "en": "Identify a device", "fr": "Identifier un appareil" },
-      "description": {
-        "en": "Make a device signal itself (the demo light blinks).",
-        "fr": "Fait se signaler un appareil (la lampe de démonstration clignote)."
+      "key": "menu_of_day",
+      "label": {
+        "en": "Get the canteen menu",
+        "fr": "Obtenir le menu de la cantine",
+        "de": "Kantinen-Menü abrufen",
+        "es": "Obtener el menú del comedor"
       },
-      "timeout_seconds": 15,
+      "description": {
+        "en": "Today's or tomorrow's menu in a sentence ready to send or to say.",
+        "fr": "Le menu du jour ou de demain en une phrase prête à envoyer ou à lire.",
+        "de": "Das Menü von heute oder morgen in einem fertigen Satz zum Senden oder Vorlesen.",
+        "es": "El menú de hoy o de mañana en una frase lista para enviar o leer."
+      },
+      "timeout_seconds": 20,
       "fields": [
         {
-          "key": "device",
+          "key": "menu",
           "type": "select",
           "source": "devices",
-          "label": { "en": "Device", "fr": "Appareil" },
-          "required": true
+          "required": false,
+          "label": {
+            "en": "Menu",
+            "fr": "Menu",
+            "de": "Menü",
+            "es": "Menú"
+          },
+          "description": {
+            "en": "Empty: every watched menu.",
+            "fr": "Vide : tous les menus suivis.",
+            "de": "Leer: alle verfolgten Menüs.",
+            "es": "Vacío: todos los menús vigilados."
+          }
+        },
+        {
+          "key": "day",
+          "type": "select",
+          "required": false,
+          "label": {
+            "en": "Day",
+            "fr": "Jour",
+            "de": "Tag",
+            "es": "Día"
+          },
+          "description": {
+            "en": "Empty: today.",
+            "fr": "Vide : aujourd'hui.",
+            "de": "Leer: heute.",
+            "es": "Vacío: hoy."
+          },
+          "options": [
+            {
+              "value": "today",
+              "label": {
+                "en": "Today",
+                "fr": "Aujourd'hui",
+                "de": "Heute",
+                "es": "Hoy"
+              }
+            },
+            {
+              "value": "tomorrow",
+              "label": {
+                "en": "Tomorrow",
+                "fr": "Demain",
+                "de": "Morgen",
+                "es": "Mañana"
+              }
+            }
+          ]
         }
       ],
       "outputs": [
         {
-          "key": "signalled",
-          "type": "boolean",
-          "label": { "en": "Device signalled", "fr": "Appareil signalé" }
+          "key": "sentence",
+          "type": "string",
+          "label": {
+            "en": "Sentence",
+            "fr": "Phrase",
+            "de": "Satz",
+            "es": "Frase"
+          }
+        },
+        {
+          "key": "has_menu",
+          "type": "number",
+          "label": {
+            "en": "Meal served (1) or not (0)",
+            "fr": "Repas servi (1) ou non (0)",
+            "de": "Essen serviert (1) oder nicht (0)",
+            "es": "Comida servida (1) o no (0)"
+          }
+        },
+        {
+          "key": "vegetarian",
+          "type": "number",
+          "label": {
+            "en": "Vegetarian (1) or not (0)",
+            "fr": "Végétarien (1) ou non (0)",
+            "de": "Vegetarisch (1) oder nicht (0)",
+            "es": "Vegetariano (1) o no (0)"
+          }
         }
       ]
     }
   ],
   "widgets": [
     {
-      "key": "demo_status",
-      "label": { "en": "Demo status", "fr": "État de la démo" },
-      "description": {
-        "en": "Live temperature and plug power, plug connection and observed location.",
-        "fr": "Température et puissance en direct, connexion de la prise, position observée."
+      "key": "menus",
+      "label": {
+        "en": "Canteen menus",
+        "fr": "Menus de la cantine",
+        "de": "Kantinen-Menüs",
+        "es": "Menús del comedor"
       },
-      "icon": "activity",
-      "action_timeout_seconds": 15
+      "description": {
+        "en": "Today's and tomorrow's meal of your canteen menus; tap a row for the whole meal.",
+        "fr": "Repas du jour et de demain de vos menus de cantine ; touchez une ligne pour le détail.",
+        "de": "Essen von heute und morgen deiner Kantinen-Menüs; tippe eine Zeile für alles an.",
+        "es": "Comida de hoy y de mañana de sus menús; toque una fila para ver el detalle."
+      },
+      "icon": "coffee",
+      "settings": [
+        {
+          "key": "menus",
+          "type": "multi_select",
+          "source": "devices",
+          "required": false,
+          "label": {
+            "en": "Menus shown",
+            "fr": "Menus affichés",
+            "de": "Angezeigte Menüs",
+            "es": "Menús mostrados"
+          },
+          "description": {
+            "en": "Empty: every watched menu.",
+            "fr": "Vide : tous les menus suivis.",
+            "de": "Leer: alle verfolgten Menüs.",
+            "es": "Vacío: todos los menús vigilados."
+          }
+        },
+        {
+          "key": "show_tomorrow",
+          "type": "boolean",
+          "default": true,
+          "required": false,
+          "label": {
+            "en": "Show tomorrow",
+            "fr": "Afficher demain",
+            "de": "Morgen anzeigen",
+            "es": "Mostrar mañana"
+          }
+        },
+        {
+          "key": "show_mentions",
+          "type": "boolean",
+          "default": true,
+          "required": false,
+          "label": {
+            "en": "Show the mentions (organic, local…)",
+            "fr": "Afficher les mentions (bio, local…)",
+            "de": "Hinweise anzeigen (bio, regional…)",
+            "es": "Mostrar las menciones (ecológico, local…)"
+          }
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,4295 @@
+[
+  {
+    "code_plat": "PES023.MAT",
+    "libelle_plat": "RADIS BEURRE",
+    "datemenu": "2026-10-30T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PES199.MAT",
+    "libelle_plat": "CAROTTES RAPEES",
+    "datemenu": "2026-11-19T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PES210.MAT",
+    "libelle_plat": "SALADE KOUKI AU CURRY",
+    "datemenu": "2026-11-17T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PEV046.MAT",
+    "libelle_plat": "POTAGE POMME DE TERRE GRUYERE",
+    "datemenu": "2026-11-04T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PES028.ENF",
+    "libelle_plat": "SALADE VERTE",
+    "datemenu": "2026-11-03T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PEQ049.ADU",
+    "libelle_plat": "PIZZA LEGUMES SOLEIL",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PES023.ADU",
+    "libelle_plat": "RADIS BEURRE",
+    "datemenu": "2026-11-10T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PES076.ADU",
+    "libelle_plat": "ENDIVES AU BLEU",
+    "datemenu": "2026-11-12T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PES199.ADU",
+    "libelle_plat": "CAROTTES RAPEES",
+    "datemenu": "2026-11-19T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PES210.ADU",
+    "libelle_plat": "SALADE KOUKI AU CURRY",
+    "datemenu": "2026-11-17T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PEC001.ADU",
+    "libelle_plat": "PATE GASCON",
+    "datemenu": "2026-11-16T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PES023.ADU",
+    "libelle_plat": "RADIS BEURRE",
+    "datemenu": "2026-10-30T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PES210.ADU",
+    "libelle_plat": "SALADE KOUKI AU CURRY",
+    "datemenu": "2026-11-04T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PSV091.MAT",
+    "libelle_plat": "DAHL DE LENTILLES VERTES  menu Veggi",
+    "datemenu": "2026-10-26T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PVB050.MAT",
+    "libelle_plat": "EMINCE DE BOEUF PROVENCAL",
+    "datemenu": "2026-11-12T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PVC014.MAT",
+    "libelle_plat": "RAVIOLI RICOTTA EPINARDS",
+    "datemenu": "2026-11-10T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PVD011.MAT",
+    "libelle_plat": "SAUTE VEAU MARENGO",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PVO010.ENF",
+    "libelle_plat": "OMELETTE NATURE PLEIN AIR",
+    "datemenu": "2026-11-16T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PVO017.ENF",
+    "libelle_plat": "TORTILLA POMME DE TERRE/OIGNON",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PVO019.ENF",
+    "libelle_plat": "TORTILLA LEGUMES 90g",
+    "datemenu": "2026-11-04T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PVP044.ENF",
+    "libelle_plat": "JAMBON CUIT",
+    "datemenu": "2026-11-02T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PVP044.ENF",
+    "libelle_plat": "JAMBON CUIT",
+    "datemenu": "2026-11-17T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PVV035.ENF",
+    "libelle_plat": "PANE MOELLEUX NATURE",
+    "datemenu": "2026-11-09T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PVV083.ENF",
+    "libelle_plat": "POULET ROTI",
+    "datemenu": "2026-11-19T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PSV007.ENF",
+    "libelle_plat": "PEPITES VEGETALES",
+    "datemenu": "2026-11-19T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PSV077.ENF",
+    "libelle_plat": "VEGGI BOLOGNAISE sans soja",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PSV091.ENF",
+    "libelle_plat": "DAHL DE LENTILLES VERTES  menu Veggi",
+    "datemenu": "2026-10-26T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PSV091.ENF",
+    "libelle_plat": "DAHL DE LENTILLES VERTES  menu Veggi",
+    "datemenu": "2026-11-17T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PSV095.ENF",
+    "libelle_plat": "PEPITES DE LINGOT CREME CHAMPIGNON",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PVV035.ENF",
+    "libelle_plat": "PANE MOELLEUX NATURE",
+    "datemenu": "2026-11-02T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PVV083.ENF",
+    "libelle_plat": "POULET ROTI",
+    "datemenu": "2026-11-02T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PPE016.ADU",
+    "libelle_plat": "POISSON PANE CUIT / CITRON",
+    "datemenu": "2026-11-18T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PPE043.ADU",
+    "libelle_plat": "CUBES COLIN POIVRONS",
+    "datemenu": "2026-10-30T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PVO017.ADU",
+    "libelle_plat": "TORTILLA POMME DE TERRE/OIGNON",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PVV035.ADU",
+    "libelle_plat": "PANE MOELLEUX NATURE",
+    "datemenu": "2026-11-17T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PSV007.ADU",
+    "libelle_plat": "PEPITES VEGETALES",
+    "datemenu": "2026-11-19T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PSV074.ADU",
+    "libelle_plat": "EMINCE VEGETAL  A LA PROVENCALE",
+    "datemenu": "2026-11-12T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PVO017.ADU",
+    "libelle_plat": "TORTILLA POMME DE TERRE/OIGNON",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PVV120.ADU",
+    "libelle_plat": "EMINCE DINDE SAUCE SUPREME",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PLB005.ENF",
+    "libelle_plat": "HARICOTS VERTS",
+    "datemenu": "2026-11-04T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PLB007.ENF",
+    "libelle_plat": "CAROTTE RONDELLES",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PLC088.MAT",
+    "libelle_plat": "PUREE DE CELERI",
+    "datemenu": "2026-11-16T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PSV036.MAT",
+    "libelle_plat": "RIZ CAMARGUAIS MENU VEGGI",
+    "datemenu": "2026-10-26T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PLB007.ENF",
+    "libelle_plat": "CAROTTE RONDELLES",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PLB048.ENF",
+    "libelle_plat": "FLAGEOLETS PERSILLES  d'Occitanie",
+    "datemenu": "2026-11-10T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PLC008.ENF",
+    "libelle_plat": "CHOU FLEUR PERSILLE",
+    "datemenu": "2026-11-09T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PLS070.ENF",
+    "libelle_plat": "ALIGOT (semaine du go\u00fbt)",
+    "datemenu": "2026-11-12T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PSV037.ENF",
+    "libelle_plat": "SEMOULE AU BEURRE MENU VEGGI",
+    "datemenu": "2026-11-13T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PAC002",
+    "libelle_plat": "KETCHUP",
+    "datemenu": "2026-11-09T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PLB007.ADU",
+    "libelle_plat": "CAROTTE RONDELLES",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PLB007.ADU",
+    "libelle_plat": "CAROTTE RONDELLES",
+    "datemenu": "2026-11-03T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PLC008.ADU",
+    "libelle_plat": "CHOU FLEUR PERSILLE",
+    "datemenu": "2026-11-12T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PLC088.ADU",
+    "libelle_plat": "PUREE DE CELERI",
+    "datemenu": "2026-11-16T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PLP038.ADU",
+    "libelle_plat": "COQUILLETTES GROSSES  BEURRE",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PLP038.ADU",
+    "libelle_plat": "COQUILLETTES GROSSES  BEURRE",
+    "datemenu": "2026-11-02T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PSV037.ADU",
+    "libelle_plat": "SEMOULE AU BEURRE MENU VEGGI",
+    "datemenu": "2026-11-20T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PVC021.ADU",
+    "libelle_plat": "SAUCE TOMATE",
+    "datemenu": "2026-11-10T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PLB007.ADU",
+    "libelle_plat": "CAROTTE RONDELLES",
+    "datemenu": "2026-11-19T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PLC008.ADU",
+    "libelle_plat": "CHOU FLEUR PERSILLE",
+    "datemenu": "2026-11-09T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PLC013.ADU",
+    "libelle_plat": "EPINARDS BECHAMEL",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PLC014.ADU",
+    "libelle_plat": "POELEE RATATOUILLE",
+    "datemenu": "2026-11-03T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PLC052.ADU",
+    "libelle_plat": "POELEE 3 CHOUX",
+    "datemenu": "2026-11-20T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PLC125.ADU",
+    "libelle_plat": "EPINARDS POMME DE TERRE BECHAMEL",
+    "datemenu": "2026-11-16T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PSV037.ADU",
+    "libelle_plat": "SEMOULE AU BEURRE MENU VEGGI",
+    "datemenu": "2026-11-13T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PBF022",
+    "libelle_plat": "GOUDA",
+    "datemenu": "2026-10-26T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PBD010",
+    "libelle_plat": "YAOURT MIXE  PANACHE",
+    "datemenu": "2026-11-03T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PBD049",
+    "libelle_plat": "YAOURT non sucr\u00e9",
+    "datemenu": "2026-11-09T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PBF027",
+    "libelle_plat": "BABIBEL",
+    "datemenu": "2026-11-02T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PBD020",
+    "libelle_plat": "YAOURT FRAISE MIXE",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PBD081",
+    "libelle_plat": "YAOURT BULGARE BRASSE VANILLE",
+    "datemenu": "2026-10-30T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PBD082",
+    "libelle_plat": "FROMAGE BLANC  EN POT",
+    "datemenu": "2026-11-12T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PBF022",
+    "libelle_plat": "GOUDA",
+    "datemenu": "2026-10-26T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PBF022",
+    "libelle_plat": "GOUDA",
+    "datemenu": "2026-11-17T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PBF052",
+    "libelle_plat": "EMMENTAL  PORTION",
+    "datemenu": "2026-11-10T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PBF091",
+    "libelle_plat": "TOME DE CHEVRE DES PYRENEES",
+    "datemenu": "2026-11-18T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PFF006",
+    "libelle_plat": "FRUIT FRAIS",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PFF006",
+    "libelle_plat": "FRUIT FRAIS",
+    "datemenu": "2026-11-04T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PFF024",
+    "libelle_plat": "FRUIT",
+    "datemenu": "2026-10-26T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PFF024",
+    "libelle_plat": "FRUIT",
+    "datemenu": "2026-11-20T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PGG033",
+    "libelle_plat": "PALET BRETON",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PFB044",
+    "libelle_plat": "SALADE DE FRUIT AU SIROP",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PFF006",
+    "libelle_plat": "FRUIT FRAIS",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PFF024",
+    "libelle_plat": "FRUIT",
+    "datemenu": "2026-11-12T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PFF006",
+    "libelle_plat": "FRUIT FRAIS",
+    "datemenu": "2026-11-18T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PFF024",
+    "libelle_plat": "FRUIT",
+    "datemenu": "2026-11-02T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PGF086",
+    "libelle_plat": "TARTE AUX POMMES",
+    "datemenu": "2026-11-17T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PGF095",
+    "libelle_plat": "MOELLEUX CHOCO 10 PARTS",
+    "datemenu": "2026-11-03T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PGC048",
+    "libelle_plat": "FONDANT CHOCOLAT",
+    "datemenu": "2026-11-09T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PIN005",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-02T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PIN007",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-03T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PIN004",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-04T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-10T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PIN005",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-02T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PIN005",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-04T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PIN007",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-17T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PIN007",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-19T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-10-30T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-16T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-18T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-19T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PGG042",
+    "libelle_plat": "QUATRE QUART",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PBD010",
+    "libelle_plat": "YAOURT MIXE  PANACHE",
+    "datemenu": "2026-11-04T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PBF004",
+    "libelle_plat": "BREBICREME",
+    "datemenu": "2026-11-13T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PES023.ADU",
+    "libelle_plat": "RADIS BEURRE",
+    "datemenu": "2026-11-20T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PFB014",
+    "libelle_plat": "PUREE FRUIT SANS SUCRES AJOUTES POMME/ANANAS",
+    "datemenu": "2026-11-10T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PGC048",
+    "libelle_plat": "FONDANT CHOCOLAT",
+    "datemenu": "2026-11-09T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PBF027",
+    "libelle_plat": "BABIBEL",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "DGS008",
+    "libelle_plat": "PALET BRETON BEURRE 15G",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 8,
+    "libelle_ordre_plat": "INGREDIENTS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PFB044",
+    "libelle_plat": "SALADE DE FRUIT AU SIROP",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 8,
+    "libelle_ordre_plat": "INGREDIENTS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PEP010.ENF",
+    "libelle_plat": "RILLETTES DE LA MER",
+    "datemenu": "2026-11-16T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PEQ005.ENF",
+    "libelle_plat": "TARTE AU FROMAGE",
+    "datemenu": "2026-11-19T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PEQ028.ENF",
+    "libelle_plat": "PIZZA",
+    "datemenu": "2026-11-02T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PES042.ENF",
+    "libelle_plat": "SALADE ENDIVES",
+    "datemenu": "2026-10-26T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PES042.ENF",
+    "libelle_plat": "SALADE ENDIVES",
+    "datemenu": "2026-11-13T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PEQ028.ADU",
+    "libelle_plat": "PIZZA",
+    "datemenu": "2026-11-18T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PES046.ADU",
+    "libelle_plat": "SALADE VERTE /EMMENTAL",
+    "datemenu": "2026-11-03T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PES183.ADU",
+    "libelle_plat": "SALADE MELANGE TENDRE",
+    "datemenu": "2026-11-09T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PEQ005.ADU",
+    "libelle_plat": "TARTE AU FROMAGE",
+    "datemenu": "2026-11-19T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PEQ049.ADU",
+    "libelle_plat": "PIZZA LEGUMES SOLEIL",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PES204.ADU",
+    "libelle_plat": "SALADE COLESLAW CC",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PPE007.MAT",
+    "libelle_plat": "CUBES COLIN NORMANDE",
+    "datemenu": "2026-11-03T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PPE213.MAT",
+    "libelle_plat": "FILET DE POISSON MEUNIERE",
+    "datemenu": "2026-11-13T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PSV047.MAT",
+    "libelle_plat": "LOUBIA VEGETARIENNE",
+    "datemenu": "2026-11-20T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PVV084.ENF",
+    "libelle_plat": "FILET DE POULET PANE",
+    "datemenu": "2026-11-09T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PPE007.ENF",
+    "libelle_plat": "CUBES COLIN NORMANDE",
+    "datemenu": "2026-11-03T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PSV096.ENF",
+    "libelle_plat": "CHILI VEGETAL",
+    "datemenu": "2026-11-13T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PVO017.ENF",
+    "libelle_plat": "TORTILLA POMME DE TERRE/OIGNON",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PVO019.ENF",
+    "libelle_plat": "TORTILLA LEGUMES 90g",
+    "datemenu": "2026-11-04T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PVV120.ENF",
+    "libelle_plat": "EMINCE DINDE SAUCE SUPREME",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PVV163.ENF",
+    "libelle_plat": "BROCHETTE POULET MARINEE",
+    "datemenu": "2026-11-18T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PPE016.ADU",
+    "libelle_plat": "POISSON PANE CUIT / CITRON",
+    "datemenu": "2026-11-02T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PVB001.ADU",
+    "libelle_plat": "SAUTE JEUNE BOVIN PROVENCAL",
+    "datemenu": "2026-11-16T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PVP044.ADU",
+    "libelle_plat": "JAMBON CUIT",
+    "datemenu": "2026-11-02T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PVP044.ADU",
+    "libelle_plat": "JAMBON CUIT",
+    "datemenu": "2026-11-17T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PVV084.ADU",
+    "libelle_plat": "FILET DE POULET PANE",
+    "datemenu": "2026-11-09T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PPE007.ADU",
+    "libelle_plat": "CUBES COLIN NORMANDE",
+    "datemenu": "2026-11-03T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PPE134.ADU",
+    "libelle_plat": "POISSON PANE CUIT / CITRON",
+    "datemenu": "2026-11-18T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PSV095.ADU",
+    "libelle_plat": "PEPITES DE LINGOTCREME CHAMPIGNON",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PVO018.ADU",
+    "libelle_plat": "OMELETTE NATURE PLEIN AIR",
+    "datemenu": "2026-11-16T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PVV035.ADU",
+    "libelle_plat": "PANE MOELLEUX NATURE",
+    "datemenu": "2026-11-02T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PLC008.ENF",
+    "libelle_plat": "CHOU FLEUR PERSILLE",
+    "datemenu": "2026-11-12T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PLC044.ENF",
+    "libelle_plat": "HARICOTS PLATS D ESPAGNE",
+    "datemenu": "2026-11-18T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PVC021.MAT",
+    "libelle_plat": "SAUCE TOMATE",
+    "datemenu": "2026-11-10T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PLB007.ENF",
+    "libelle_plat": "CAROTTE RONDELLES",
+    "datemenu": "2026-11-04T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PLB007.ENF",
+    "libelle_plat": "CAROTTE RONDELLES",
+    "datemenu": "2026-11-19T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PLC024.ADU",
+    "libelle_plat": "POMMES NOISETTES",
+    "datemenu": "2026-11-09T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PLC044.ADU",
+    "libelle_plat": "HARICOTS PLATS D ESPAGNE",
+    "datemenu": "2026-11-18T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PLC095.ADU",
+    "libelle_plat": "GRATIN DE COURGETTES A LA TOMATE",
+    "datemenu": "2026-11-13T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PLC113.ADU",
+    "libelle_plat": "FRITES   AU FOUR",
+    "datemenu": "2026-11-19T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PLC152.ADU",
+    "libelle_plat": "PATATE DOUCE CHOU FLEUR",
+    "datemenu": "2026-10-30T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PLB005.ADU",
+    "libelle_plat": "HARICOTS VERTS",
+    "datemenu": "2026-11-02T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PLB007.ADU",
+    "libelle_plat": "CAROTTE RONDELLES",
+    "datemenu": "2026-11-04T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PLC008.ADU",
+    "libelle_plat": "CHOU FLEUR PERSILLE",
+    "datemenu": "2026-10-30T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PSV036.ADU",
+    "libelle_plat": "RIZ CAMARGUAIS MENU VEGGI",
+    "datemenu": "2026-10-26T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PBD020",
+    "libelle_plat": "YAOURT FRAISE MIXE",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PBD081",
+    "libelle_plat": "YAOURT BULGARE BRASSE VANILLE",
+    "datemenu": "2026-10-30T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PBD082",
+    "libelle_plat": "FROMAGE BLANC  EN POT",
+    "datemenu": "2026-11-19T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PBF111",
+    "libelle_plat": "FROMAGE A TARTINER  PRESIDENT",
+    "datemenu": "2026-11-20T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PBD020",
+    "libelle_plat": "YAOURT FRAISE MIXE",
+    "datemenu": "2026-11-20T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PBD049",
+    "libelle_plat": "YAOURT non sucr\u00e9",
+    "datemenu": "2026-11-16T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PBD081",
+    "libelle_plat": "YAOURT BULGARE BRASSE VANILLE",
+    "datemenu": "2026-10-30T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PBD082",
+    "libelle_plat": "FROMAGE BLANC  EN POT",
+    "datemenu": "2026-11-12T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PBF022",
+    "libelle_plat": "GOUDA",
+    "datemenu": "2026-11-17T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PBF111",
+    "libelle_plat": "FROMAGE A TARTINER  PRESIDENT",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PFF006",
+    "libelle_plat": "FRUIT FRAIS",
+    "datemenu": "2026-11-18T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PFF024",
+    "libelle_plat": "FRUIT",
+    "datemenu": "2026-11-13T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PGG050",
+    "libelle_plat": "BISCUIT CUILLERE",
+    "datemenu": "2026-11-20T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PGS009",
+    "libelle_plat": "COOKIES PEPITES",
+    "datemenu": "2026-11-03T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PFF006",
+    "libelle_plat": "FRUIT FRAIS",
+    "datemenu": "2026-11-04T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PFB014",
+    "libelle_plat": "PUREE FRUIT SANS SUCRES AJOUTES POMME/ANANAS",
+    "datemenu": "2026-11-10T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PFF006",
+    "libelle_plat": "FRUIT FRAIS",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PFF024",
+    "libelle_plat": "FRUIT",
+    "datemenu": "2026-11-02T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PFF024",
+    "libelle_plat": "FRUIT",
+    "datemenu": "2026-11-16T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PIN004",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-10-26T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PIN005",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-20T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-10-30T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-10T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PIN007",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-13T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PIN007",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-17T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PIN007",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-18T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PIN007",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-19T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PIN005",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-03T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PIN007",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-03T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-06T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PGG048",
+    "libelle_plat": "CHOCOLAT NOIR",
+    "datemenu": "2026-11-04T00:00:00+00:00",
+    "libelle_repas": "GOUTER ENFANT",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PBD047",
+    "libelle_plat": "YAOURT \u00e0 BOIRE FRAISE",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PGG016",
+    "libelle_plat": "MARBRE CHOCOLAT",
+    "datemenu": "2026-10-30T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PGG050",
+    "libelle_plat": "BISCUIT CUILLERE",
+    "datemenu": "2026-10-30T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 8,
+    "libelle_ordre_plat": "INGREDIENTS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PEQ028.ENF",
+    "libelle_plat": "PIZZA",
+    "datemenu": "2026-11-18T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PEQ049.ENF",
+    "libelle_plat": "PIZZA LEGUMES SOLEIL",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PES023.MAT",
+    "libelle_plat": "RADIS BEURRE",
+    "datemenu": "2026-11-10T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PES028.MAT",
+    "libelle_plat": "SALADE VERTE",
+    "datemenu": "2026-11-16T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PES046.MAT",
+    "libelle_plat": "SALADE VERTE /EMMENTAL",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "$SV036",
+    "libelle_plat": "RIZ CAMARGUAIS MENU VEGGI",
+    "datemenu": "2026-10-26T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PES028.ENF",
+    "libelle_plat": "SALADE VERTE",
+    "datemenu": "2026-11-17T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PES210.ENF",
+    "libelle_plat": "SALADE KOUKI AU CURRY",
+    "datemenu": "2026-11-04T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PEV005.ENF",
+    "libelle_plat": "POTAGE DE  POTIRON",
+    "datemenu": "2026-11-12T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PES046.ADU",
+    "libelle_plat": "SALADE VERTE /EMMENTAL",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PEP010.ADU",
+    "libelle_plat": "RILLETTES DE LA MER",
+    "datemenu": "2026-11-16T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PEQ028.ADU",
+    "libelle_plat": "PIZZA",
+    "datemenu": "2026-11-02T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PES028.ADU",
+    "libelle_plat": "SALADE VERTE",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PES199.ADU",
+    "libelle_plat": "CAROTTES RAPEES",
+    "datemenu": "2026-11-06T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PPE016.MAT",
+    "libelle_plat": "POISSON PANE CUIT / CITRON",
+    "datemenu": "2026-11-02T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PPE016.MAT",
+    "libelle_plat": "POISSON PANE CUIT / CITRON",
+    "datemenu": "2026-11-18T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PSV036.ENF",
+    "libelle_plat": "RIZ CAMARGUAIS MENU VEGGI",
+    "datemenu": "2026-11-10T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PSV074.ENF",
+    "libelle_plat": "EMINCE VEGETAL  A LA PROVENCALE",
+    "datemenu": "2026-11-12T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PVB040.ENF",
+    "libelle_plat": "DAUBE",
+    "datemenu": "2026-11-19T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PVP044.ENF",
+    "libelle_plat": "JAMBON CUIT",
+    "datemenu": "2026-11-03T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PVV084.ENF",
+    "libelle_plat": "FILET DE POULET PANE",
+    "datemenu": "2026-11-10T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PSV077.ADU",
+    "libelle_plat": "VEGGI BOLOGNAISE sans soja",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PVB050.ADU",
+    "libelle_plat": "EMINCE DE BOEUF PROVENCAL",
+    "datemenu": "2026-11-12T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PVO010.ADU",
+    "libelle_plat": "OMELETTE NATURE PLEIN AIR",
+    "datemenu": "2026-11-16T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PVV035.ADU",
+    "libelle_plat": "PANE MOELLEUX NATURE",
+    "datemenu": "2026-11-09T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PVV083.ADU",
+    "libelle_plat": "POULET ROTI",
+    "datemenu": "2026-11-19T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PSV036.ADU",
+    "libelle_plat": "RIZ CAMARGUAIS MENU VEGGI",
+    "datemenu": "2026-11-10T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PSV091.ADU",
+    "libelle_plat": "DAHL DE LENTILLES VERTES  menu Veggi",
+    "datemenu": "2026-10-26T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PSV091.ADU",
+    "libelle_plat": "DAHL DE LENTILLES VERTES  menu Veggi",
+    "datemenu": "2026-11-17T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PSV096.ADU",
+    "libelle_plat": "CHILI VEGETAL",
+    "datemenu": "2026-11-13T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PVB040.ADU",
+    "libelle_plat": "DAUBE",
+    "datemenu": "2026-11-19T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PVD011.ADU",
+    "libelle_plat": "SAUTE VEAU MARENGO",
+    "datemenu": "2026-11-12T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PVO019.ADU",
+    "libelle_plat": "TORTILLA LEGUMES 90g",
+    "datemenu": "2026-11-04T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PAC002",
+    "libelle_plat": "KETCHUP",
+    "datemenu": "2026-11-09T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PLC013.ENF",
+    "libelle_plat": "EPINARDS BECHAMEL",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PLC013.ENF",
+    "libelle_plat": "EPINARDS BECHAMEL",
+    "datemenu": "2026-11-17T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PLC152.MAT",
+    "libelle_plat": "PATATE DOUCE CHOU FLEUR",
+    "datemenu": "2026-10-30T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PLB005.ENF",
+    "libelle_plat": "HARICOTS VERTS",
+    "datemenu": "2026-11-02T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PLC013.ENF",
+    "libelle_plat": "EPINARDS BECHAMEL",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PLC052.ENF",
+    "libelle_plat": "POELEE 3 CHOUX",
+    "datemenu": "2026-11-20T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PLP038.ENF",
+    "libelle_plat": "COQUILLETTES GROSSES  BEURRE",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PLC013.ADU",
+    "libelle_plat": "EPINARDS BECHAMEL",
+    "datemenu": "2026-11-17T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PLB007.ADU",
+    "libelle_plat": "CAROTTE RONDELLES",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PBD020",
+    "libelle_plat": "YAOURT FRAISE MIXE",
+    "datemenu": "2026-11-10T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PBD003",
+    "libelle_plat": "CREME ANGLAISE",
+    "datemenu": "2026-11-09T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PBF011",
+    "libelle_plat": "CANTAL",
+    "datemenu": "2026-11-19T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PBF052",
+    "libelle_plat": "EMMENTAL  PORTION",
+    "datemenu": "2026-11-10T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PBD020",
+    "libelle_plat": "YAOURT FRAISE MIXE",
+    "datemenu": "2026-11-10T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PBD074",
+    "libelle_plat": "YAOURT BULGARE BRASSE NATURE",
+    "datemenu": "2026-11-16T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PBD081",
+    "libelle_plat": "YAOURT BULGARE BRASSE VANILLE",
+    "datemenu": "2026-10-30T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PBF111",
+    "libelle_plat": "FROMAGE A TARTINER  PRESIDENT",
+    "datemenu": "2026-11-20T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PBD049",
+    "libelle_plat": "YAOURT non sucr\u00e9",
+    "datemenu": "2026-11-16T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PBD081",
+    "libelle_plat": "YAOURT BULGARE BRASSE VANILLE",
+    "datemenu": "2026-11-04T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PBF004",
+    "libelle_plat": "BREBICREME",
+    "datemenu": "2026-11-13T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PBF011",
+    "libelle_plat": "CANTAL",
+    "datemenu": "2026-11-19T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PBF096",
+    "libelle_plat": "TOME PYRENEES",
+    "datemenu": "2026-11-02T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PGG049",
+    "libelle_plat": "MADELEINE",
+    "datemenu": "2026-11-12T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PBD002",
+    "libelle_plat": "MOUSSE AU CHOCOLAT",
+    "datemenu": "2026-11-17T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PFB014",
+    "libelle_plat": "PUREE FRUIT SANS SUCRES AJOUTES POMME/ANANAS",
+    "datemenu": "2026-11-10T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PGG033",
+    "libelle_plat": "PALET BRETON",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PFF006",
+    "libelle_plat": "FRUIT FRAIS",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PFF024",
+    "libelle_plat": "FRUIT",
+    "datemenu": "2026-10-26T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PFF024",
+    "libelle_plat": "FRUIT",
+    "datemenu": "2026-11-19T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PGG050",
+    "libelle_plat": "BISCUIT CUILLERE",
+    "datemenu": "2026-11-20T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PIN007",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PIN007",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-09T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-02T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-17T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PIN005",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-20T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-10-30T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-10T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PIN007",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-09T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PIN004",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-10-26T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PIN004",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-04T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-02T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PFF006",
+    "libelle_plat": "FRUIT FRAIS",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PGG042",
+    "libelle_plat": "QUATRE QUART",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PGG048",
+    "libelle_plat": "CHOCOLAT NOIR",
+    "datemenu": "2026-10-26T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PAG002",
+    "libelle_plat": "LAIT CHOCOLATE",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PFB023",
+    "libelle_plat": "COMPOTE POMME BERLINGO",
+    "datemenu": "2026-11-18T00:00:00+00:00",
+    "libelle_repas": "GOUTER ENFANT",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PFF006",
+    "libelle_plat": "FRUIT FRAIS",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PBF027",
+    "libelle_plat": "BABIBEL",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PFF006",
+    "libelle_plat": "FRUIT FRAIS",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PFF006",
+    "libelle_plat": "FRUIT FRAIS",
+    "datemenu": "2026-10-30T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PFF024",
+    "libelle_plat": "FRUIT",
+    "datemenu": "2026-11-16T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PFF024",
+    "libelle_plat": "FRUIT",
+    "datemenu": "2026-11-19T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PGG016",
+    "libelle_plat": "MARBRE CHOCOLAT",
+    "datemenu": "2026-10-30T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PGG048",
+    "libelle_plat": "CHOCOLAT NOIR",
+    "datemenu": "2026-10-26T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "DBD049",
+    "libelle_plat": "YAOURT FRAISE MIXE",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 8,
+    "libelle_ordre_plat": "INGREDIENTS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PES046.MAT",
+    "libelle_plat": "SALADE VERTE /EMMENTAL",
+    "datemenu": "2026-11-03T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PES076.MAT",
+    "libelle_plat": "ENDIVES AU BLEU",
+    "datemenu": "2026-11-12T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PES183.MAT",
+    "libelle_plat": "SALADE MELANGE TENDRE",
+    "datemenu": "2026-11-09T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PES204.MAT",
+    "libelle_plat": "SALADE COLESLAW CC",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PEC001.ENF",
+    "libelle_plat": "PATE GASCON",
+    "datemenu": "2026-11-16T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PES019.ENF",
+    "libelle_plat": "PAMPLEMOUSSE",
+    "datemenu": "2026-11-09T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PES023.ENF",
+    "libelle_plat": "RADIS BEURRE",
+    "datemenu": "2026-10-30T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PES183.ENF",
+    "libelle_plat": "SALADE MELANGE TENDRE",
+    "datemenu": "2026-11-10T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PES199.ENF",
+    "libelle_plat": "CAROTTES RAPEES",
+    "datemenu": "2026-11-06T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PES204.ENF",
+    "libelle_plat": "SALADE COLESLAW CC",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PES028.ADU",
+    "libelle_plat": "SALADE VERTE",
+    "datemenu": "2026-11-16T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PES204.ADU",
+    "libelle_plat": "SALADE COLESLAW CC",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PEV045.ADU",
+    "libelle_plat": "POTAGE DE  POTIRON petites PATES EMMENTHAL",
+    "datemenu": "2026-11-13T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PES023.ADU",
+    "libelle_plat": "RADIS BEURRE",
+    "datemenu": "2026-11-20T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PES028.ADU",
+    "libelle_plat": "SALADE VERTE",
+    "datemenu": "2026-11-17T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PES042.ADU",
+    "libelle_plat": "SALADE ENDIVES",
+    "datemenu": "2026-10-26T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PES042.ADU",
+    "libelle_plat": "SALADE ENDIVES",
+    "datemenu": "2026-11-13T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PSV077.MAT",
+    "libelle_plat": "VEGGI BOLOGNAISE sans soja",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PSV095.MAT",
+    "libelle_plat": "PEPITES DE LINGOT CREME CHAMPIGNON",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PVV120.MAT",
+    "libelle_plat": "EMINCE DINDE SAUCE SUPREME",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PVV143.MAT",
+    "libelle_plat": "AIGUILLETTE DE POULET CITRON",
+    "datemenu": "2026-11-04T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PPE043.ENF",
+    "libelle_plat": "CUBES COLIN POIVRONS",
+    "datemenu": "2026-11-09T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PPE099.ENF",
+    "libelle_plat": "CUBES COLIN CIBOULETTE",
+    "datemenu": "2026-11-20T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PVD011.ENF",
+    "libelle_plat": "SAUTE VEAU MARENGO",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PVO018.ENF",
+    "libelle_plat": "OMELETTE NATURE PLEIN AIR",
+    "datemenu": "2026-11-16T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PSV047.ADU",
+    "libelle_plat": "LOUBIA VEGETARIENNE",
+    "datemenu": "2026-11-20T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PSV095.ADU",
+    "libelle_plat": "PEPITES DE LINGOTCREME CHAMPIGNON",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PVC014.ADU",
+    "libelle_plat": "RAVIOLI RICOTTA EPINARDS",
+    "datemenu": "2026-11-10T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PVD011.ADU",
+    "libelle_plat": "SAUTE VEAU MARENGO",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PPE043.ADU",
+    "libelle_plat": "CUBES COLIN POIVRONS",
+    "datemenu": "2026-11-09T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PVP044.ADU",
+    "libelle_plat": "JAMBON CUIT",
+    "datemenu": "2026-11-03T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PVV083.ADU",
+    "libelle_plat": "POULET ROTI",
+    "datemenu": "2026-11-02T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PVV084.ADU",
+    "libelle_plat": "FILET DE POULET PANE",
+    "datemenu": "2026-11-10T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PVV163.ADU",
+    "libelle_plat": "BROCHETTE POULET MARINEE",
+    "datemenu": "2026-11-18T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PLC024.MAT",
+    "libelle_plat": "POMMES NOISETTES",
+    "datemenu": "2026-11-09T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PLC095.ENF",
+    "libelle_plat": "GRATIN DE COURGETTES A LA TOMATE",
+    "datemenu": "2026-11-13T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PLP038.MAT",
+    "libelle_plat": "COQUILLETTES GROSSES  BEURRE",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PLP038.MAT",
+    "libelle_plat": "COQUILLETTES GROSSES  BEURRE",
+    "datemenu": "2026-11-02T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PSV037.MAT",
+    "libelle_plat": "SEMOULE AU BEURRE MENU VEGGI",
+    "datemenu": "2026-11-20T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PLC014.ENF",
+    "libelle_plat": "POELEE RATATOUILLE",
+    "datemenu": "2026-11-03T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PSV036.ENF",
+    "libelle_plat": "RIZ CAMARGUAIS MENU VEGGI",
+    "datemenu": "2026-10-26T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PLB005.ADU",
+    "libelle_plat": "HARICOTS VERTS",
+    "datemenu": "2026-11-04T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PLB048.ADU",
+    "libelle_plat": "FLAGEOLETS PERSILLES  d'Occitanie",
+    "datemenu": "2026-11-10T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PLC088.ADU",
+    "libelle_plat": "PUREE DE CELERI",
+    "datemenu": "2026-11-18T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PLS070.ADU",
+    "libelle_plat": "ALIGOT (semaine du go\u00fbt)",
+    "datemenu": "2026-11-12T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PSV036.ADU",
+    "libelle_plat": "RIZ CAMARGUAIS MENU VEGGI",
+    "datemenu": "2026-11-17T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PBD074",
+    "libelle_plat": "YAOURT BULGARE BRASSE NATURE",
+    "datemenu": "2026-11-16T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PBF027",
+    "libelle_plat": "BABIBEL",
+    "datemenu": "2026-11-02T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PBF091",
+    "libelle_plat": "TOME DE CHEVRE DES PYRENEES",
+    "datemenu": "2026-11-18T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PBF096",
+    "libelle_plat": "TOME PYRENEES",
+    "datemenu": "2026-11-02T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PBF116",
+    "libelle_plat": "GRUYERE PORTION",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PBD082",
+    "libelle_plat": "FROMAGE BLANC  EN POT",
+    "datemenu": "2026-11-19T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PBD003",
+    "libelle_plat": "CREME ANGLAISE",
+    "datemenu": "2026-11-09T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PBD010",
+    "libelle_plat": "YAOURT MIXE  PANACHE",
+    "datemenu": "2026-11-03T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PBF116",
+    "libelle_plat": "GRUYERE PORTION",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PFF024",
+    "libelle_plat": "FRUIT",
+    "datemenu": "2026-11-02T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PGF095",
+    "libelle_plat": "MOELLEUX CHOCO 10 PARTS",
+    "datemenu": "2026-11-03T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PFB044",
+    "libelle_plat": "SALADE DE FRUIT AU SIROP",
+    "datemenu": "2026-11-13T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PFF006",
+    "libelle_plat": "FRUIT FRAIS",
+    "datemenu": "2026-11-18T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PFF024",
+    "libelle_plat": "FRUIT",
+    "datemenu": "2026-11-02T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PFF024",
+    "libelle_plat": "FRUIT",
+    "datemenu": "2026-11-19T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PGC048",
+    "libelle_plat": "FONDANT CHOCOLAT",
+    "datemenu": "2026-11-09T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PGS011",
+    "libelle_plat": "PETIT BEURRE",
+    "datemenu": "2026-11-04T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PFF024",
+    "libelle_plat": "FRUIT",
+    "datemenu": "2026-11-13T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PGG033",
+    "libelle_plat": "PALET BRETON",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PFB044",
+    "libelle_plat": "SALADE DE FRUIT AU SIROP",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PFB044",
+    "libelle_plat": "SALADE DE FRUIT AU SIROP",
+    "datemenu": "2026-11-13T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PFF006",
+    "libelle_plat": "FRUIT FRAIS",
+    "datemenu": "2026-11-18T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PGG050",
+    "libelle_plat": "BISCUIT CUILLERE",
+    "datemenu": "2026-10-30T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PGS009",
+    "libelle_plat": "COOKIES PEPITES",
+    "datemenu": "2026-11-03T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PIN007",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PIN007",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-12T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PIN007",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-16T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PIN004",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-10-26T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PIN005",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-09T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PIN005",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-12T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-10-30T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PIN007",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PIN007",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PIN007",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-12T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PIN007",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-16T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PIN005",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-12T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-13T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-20T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PAG002",
+    "libelle_plat": "LAIT CHOCOLATE",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PBF027",
+    "libelle_plat": "BABIBEL",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PFF006",
+    "libelle_plat": "FRUIT FRAIS",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PGG016",
+    "libelle_plat": "MARBRE CHOCOLAT",
+    "datemenu": "2026-10-30T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PBD047",
+    "libelle_plat": "YAOURT \u00e0 BOIRE FRAISE",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PBF027",
+    "libelle_plat": "BABIBEL",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PFF006",
+    "libelle_plat": "FRUIT FRAIS",
+    "datemenu": "2026-10-30T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PGG048",
+    "libelle_plat": "CHOCOLAT NOIR",
+    "datemenu": "2026-10-26T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PEV002.ADU",
+    "libelle_plat": "POTAGE LEGUMES",
+    "datemenu": "2026-11-02T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PAG002",
+    "libelle_plat": "LAIT CHOCOLATE",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PBD047",
+    "libelle_plat": "YAOURT \u00e0 BOIRE FRAISE",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PFB023",
+    "libelle_plat": "COMPOTE POMME BERLINGO",
+    "datemenu": "2026-10-26T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PFF006",
+    "libelle_plat": "FRUIT FRAIS",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PFF006",
+    "libelle_plat": "FRUIT FRAIS",
+    "datemenu": "2026-10-30T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PGG042",
+    "libelle_plat": "QUATRE QUART",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PBF116",
+    "libelle_plat": "GRUYERE PORTION",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 8,
+    "libelle_ordre_plat": "INGREDIENTS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PEV045.MAT",
+    "libelle_plat": "POTAGE DE  POTIRON petites PATES EMMENTHAL",
+    "datemenu": "2026-11-13T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "$VV035",
+    "libelle_plat": "PANE MOELLEUX NATURE",
+    "datemenu": "2026-10-26T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PEQ049.ENF",
+    "libelle_plat": "PIZZA LEGUMES SOLEIL",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PES023.ENF",
+    "libelle_plat": "RADIS BEURRE",
+    "datemenu": "2026-11-20T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PES028.ENF",
+    "libelle_plat": "SALADE VERTE",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PEV015.ENF",
+    "libelle_plat": "POTAGE MERIDIONAL",
+    "datemenu": "2026-11-18T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PES023.ADU",
+    "libelle_plat": "RADIS BEURRE",
+    "datemenu": "2026-10-30T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PEV046.ADU",
+    "libelle_plat": "POTAGE POMME DE TERRE GRUYERE",
+    "datemenu": "2026-11-04T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PES019.ADU",
+    "libelle_plat": "PAMPLEMOUSSE",
+    "datemenu": "2026-11-09T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PES028.ADU",
+    "libelle_plat": "SALADE VERTE",
+    "datemenu": "2026-11-03T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PES183.ADU",
+    "libelle_plat": "SALADE MELANGE TENDRE",
+    "datemenu": "2026-11-10T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PEV005.ADU",
+    "libelle_plat": "POTAGE DE  POTIRON",
+    "datemenu": "2026-11-12T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PEV015.ADU",
+    "libelle_plat": "POTAGE MERIDIONAL",
+    "datemenu": "2026-11-18T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 1,
+    "libelle_ordre_plat": "01-ENTREES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PPE043.MAT",
+    "libelle_plat": "CUBES COLIN POIVRONS",
+    "datemenu": "2026-10-30T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PSV007.MAT",
+    "libelle_plat": "PEPITES VEGETALES",
+    "datemenu": "2026-11-19T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PSV074.MAT",
+    "libelle_plat": "EMINCE VEGETAL  A LA PROVENCALE",
+    "datemenu": "2026-11-12T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PVB001.MAT",
+    "libelle_plat": "SAUTE JEUNE BOVIN PROVENCAL",
+    "datemenu": "2026-11-16T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PVV035.ENF",
+    "libelle_plat": "PANE MOELLEUX NATURE",
+    "datemenu": "2026-11-17T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PPE043.ENF",
+    "libelle_plat": "CUBES COLIN POIVRONS",
+    "datemenu": "2026-10-30T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PPE134.ENF",
+    "libelle_plat": "POISSON PANE CUIT / CITRON",
+    "datemenu": "2026-11-18T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PVD011.ENF",
+    "libelle_plat": "SAUTE VEAU MARENGO",
+    "datemenu": "2026-11-12T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PPE007.ADU",
+    "libelle_plat": "CUBES COLIN NORMANDE",
+    "datemenu": "2026-11-03T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PPE213.ADU",
+    "libelle_plat": "FILET DE POISSON MEUNIERE",
+    "datemenu": "2026-11-13T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PSV007.ADU",
+    "libelle_plat": "PEPITES VEGETALES",
+    "datemenu": "2026-11-19T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PSV074.ADU",
+    "libelle_plat": "EMINCE VEGETAL  A LA PROVENCALE",
+    "datemenu": "2026-11-12T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PVO019.ADU",
+    "libelle_plat": "TORTILLA LEGUMES 90g",
+    "datemenu": "2026-11-04T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PVV120.ADU",
+    "libelle_plat": "EMINCE DINDE SAUCE SUPREME",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PVV143.ADU",
+    "libelle_plat": "AIGUILLETTE DE POULET CITRON",
+    "datemenu": "2026-11-04T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PPE043.ADU",
+    "libelle_plat": "CUBES COLIN POIVRONS",
+    "datemenu": "2026-10-30T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PPE099.ADU",
+    "libelle_plat": "CUBES COLIN CIBOULETTE",
+    "datemenu": "2026-11-20T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PSV077.ADU",
+    "libelle_plat": "VEGGI BOLOGNAISE sans soja",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PVD011.ADU",
+    "libelle_plat": "SAUTE VEAU MARENGO",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 2,
+    "libelle_ordre_plat": "02-VIANDES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PLB007.ENF",
+    "libelle_plat": "CAROTTE RONDELLES",
+    "datemenu": "2026-11-03T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PLC113.MAT",
+    "libelle_plat": "FRITES   AU FOUR",
+    "datemenu": "2026-11-19T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PLC008.ENF",
+    "libelle_plat": "CHOU FLEUR PERSILLE",
+    "datemenu": "2026-10-30T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PLC088.ENF",
+    "libelle_plat": "PUREE DE CELERI",
+    "datemenu": "2026-11-18T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PLC125.ENF",
+    "libelle_plat": "EPINARDS POMME DE TERRE BECHAMEL",
+    "datemenu": "2026-11-16T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PSV036.ENF",
+    "libelle_plat": "RIZ CAMARGUAIS MENU VEGGI",
+    "datemenu": "2026-11-17T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PLC013.ADU",
+    "libelle_plat": "EPINARDS BECHAMEL",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PLP038.ADU",
+    "libelle_plat": "COQUILLETTES GROSSES  BEURRE",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 3,
+    "libelle_ordre_plat": "03-LEGUMES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PBD049",
+    "libelle_plat": "YAOURT non sucr\u00e9",
+    "datemenu": "2026-11-09T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PBD020",
+    "libelle_plat": "YAOURT FRAISE MIXE",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PBD081",
+    "libelle_plat": "YAOURT BULGARE BRASSE VANILLE",
+    "datemenu": "2026-11-04T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PBF004",
+    "libelle_plat": "BREBICREME",
+    "datemenu": "2026-11-13T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PBF022",
+    "libelle_plat": "GOUDA",
+    "datemenu": "2026-10-26T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PBF111",
+    "libelle_plat": "FROMAGE A TARTINER  PRESIDENT",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PBD020",
+    "libelle_plat": "YAOURT FRAISE MIXE",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PBD020",
+    "libelle_plat": "YAOURT FRAISE MIXE",
+    "datemenu": "2026-11-20T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 4,
+    "libelle_ordre_plat": "04-DESSERTS LACTES",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PGF086",
+    "libelle_plat": "TARTE AUX POMMES",
+    "datemenu": "2026-11-17T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PFB033",
+    "libelle_plat": "COMPOTE POMME 5/1",
+    "datemenu": "2026-11-06T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PFF024",
+    "libelle_plat": "FRUIT",
+    "datemenu": "2026-10-26T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PFF024",
+    "libelle_plat": "FRUIT",
+    "datemenu": "2026-11-16T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PGG050",
+    "libelle_plat": "BISCUIT CUILLERE",
+    "datemenu": "2026-10-30T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PFF024",
+    "libelle_plat": "FRUIT",
+    "datemenu": "2026-11-20T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PGG049",
+    "libelle_plat": "MADELEINE",
+    "datemenu": "2026-11-12T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PBD002",
+    "libelle_plat": "MOUSSE AU CHOCOLAT",
+    "datemenu": "2026-11-17T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PFB033",
+    "libelle_plat": "COMPOTE POMME 5/1",
+    "datemenu": "2026-11-06T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PFF024",
+    "libelle_plat": "FRUIT",
+    "datemenu": "2026-11-12T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PGG033",
+    "libelle_plat": "PALET BRETON",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PGS011",
+    "libelle_plat": "PETIT BEURRE",
+    "datemenu": "2026-11-04T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 5,
+    "libelle_ordre_plat": "05-DESSERTS",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PIN005",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-04T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-06T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-13T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-16T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-18T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-19T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-20T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PIN007",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-13T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PIN007",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-18T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PIN005",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-03T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PIN005",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-09T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-10T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PIN006",
+    "libelle_plat": "BAGUETTE",
+    "datemenu": "2026-11-17T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 6,
+    "libelle_ordre_plat": "06-PAIN",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "PBD047",
+    "libelle_plat": "YAOURT \u00e0 BOIRE FRAISE",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PFB023",
+    "libelle_plat": "COMPOTE POMME BERLINGO",
+    "datemenu": "2026-10-26T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PFF006",
+    "libelle_plat": "FRUIT FRAIS",
+    "datemenu": "2026-10-30T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PGG048",
+    "libelle_plat": "CHOCOLAT NOIR",
+    "datemenu": "2026-11-04T00:00:00+00:00",
+    "libelle_repas": "GOUTER ENFANT",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": ".Maternelle"
+  },
+  {
+    "code_plat": "PFB023",
+    "libelle_plat": "COMPOTE POMME BERLINGO",
+    "datemenu": "2026-10-26T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PFF002",
+    "libelle_plat": "BANANE",
+    "datemenu": "2026-11-04T00:00:00+00:00",
+    "libelle_repas": "GOUTER ENFANT",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PFF006",
+    "libelle_plat": "FRUIT FRAIS",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PGG016",
+    "libelle_plat": "MARBRE CHOCOLAT",
+    "datemenu": "2026-10-30T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PGG043",
+    "libelle_plat": "GAILLARDISE FRAISE",
+    "datemenu": "2026-11-18T00:00:00+00:00",
+    "libelle_repas": "GOUTER ENFANT",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PAG002",
+    "libelle_plat": "LAIT CHOCOLATE",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PBD010",
+    "libelle_plat": "YAOURT MIXE  PANACHE",
+    "datemenu": "2026-11-03T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PBD082",
+    "libelle_plat": "FROMAGE BLANC  EN POT",
+    "datemenu": "2026-11-12T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PBF022",
+    "libelle_plat": "GOUDA",
+    "datemenu": "2026-11-17T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PBF091",
+    "libelle_plat": "TOME DE CHEVRE DES PYRENEES",
+    "datemenu": "2026-11-18T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PFF006",
+    "libelle_plat": "FRUIT FRAIS",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PGG042",
+    "libelle_plat": "QUATRE QUART",
+    "datemenu": "2026-10-27T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": "Adultes maternelle"
+  },
+  {
+    "code_plat": "PFF006",
+    "libelle_plat": "FRUIT FRAIS",
+    "datemenu": "2026-10-29T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 7,
+    "libelle_ordre_plat": "07-GOUTERS",
+    "libelle_population_cible": "Adultes primaire"
+  },
+  {
+    "code_plat": "DBF009",
+    "libelle_plat": "MINI BABYBEL ROUGE 22G BEL",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 8,
+    "libelle_ordre_plat": "INGREDIENTS",
+    "libelle_population_cible": ".Primaire"
+  },
+  {
+    "code_plat": "PBD020",
+    "libelle_plat": "YAOURT FRAISE MIXE",
+    "datemenu": "2026-10-28T00:00:00+00:00",
+    "libelle_repas": "REPAS MIDI",
+    "ordre_plat": 8,
+    "libelle_ordre_plat": "INGREDIENTS",
+    "libelle_population_cible": "Adultes maternelle"
+  }
+]

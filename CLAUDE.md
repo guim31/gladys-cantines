@@ -32,15 +32,20 @@ pushing.
 
 ```
 index.js                          SDK wiring only: handlers registered before connect()
-src/devices/index.js              registry of the device blueprints + dispatch helpers
-src/devices/<type>.js             one device type per file (buildDevice, onPoll, onSetValue...)
-src/scenes.js                     scene action handlers (manifest `scene_actions`)
-src/widgets.js                    dashboard widget handlers (manifest `widgets`)
+src/app.js                        registers every handler on the SDK (or its fake) around the service
+src/service.js                    runtime: sources read, timer, discovery, states, scene triggers, status
+src/sources.js                    one adapter per open data portal → menus { id, name, meals }
+src/devices.js                    the device of a menu (text features) and its states for a day
+src/scenes.js                     scene action menu_of_day (manifest `scene_actions`)
+src/widgets.js                    dashboard widget menus (manifest `widgets`)
+src/messages.js                   every text sent from the container, en/fr/de/es
+src/text.js, src/dates.js         dish name cleaning, watched words, Paris calendar
 src/config.js                     DEFAULT_CONFIG (mirrors the manifest defaults) + normalization
-src/weather.js                    example driver (Open-Meteo)
-gladys-assistant-integration.json manifest: name, config_schema, actions, image...
-docs/en.md, docs/fr.md            user documentation, re-hosted by Gladys (mandatory)
+src/http.js                       fetch with timeout and size cap
+gladys-assistant-integration.json manifest: name, config_schema, actions, triggers, widget...
+docs/{en,fr,de,es}.md             user documentation, re-hosted by Gladys (mandatory)
 test/                             node --test, against the SDK's fake Gladys (integration-sdk/testing)
+test/fixtures/sources/            real answers of the three portals (2026-10-29)
 .github/scripts/release.mjs       release helpers (manifest bump, changelog), tested in test/
 ```
 
@@ -250,3 +255,24 @@ long, et sur un « Sie »/« Ihr… » de politesse en allemand. Le store exige 
 - Docs `en`, `fr`, `de`, `es` avec les mêmes sections.
 - Chauffe, ouverture, sécurité : ne rien rendre pilotable « comme un thermostat » ou par un assistant
   vocal quand une erreur serait dangereuse (leçon d'OctoPrint).
+
+## Menus des cantines (cette intégration)
+
+- **Sources** (Opendatasoft `exports/json`, sans clé, vérifiées le 29/10/2026) : Toulouse `menus` (un
+  enregistrement par plat : `libelle_ordre_plat` « 01-ENTREES »…, populations `.Maternelle` / `.Primaire`,
+  les menus adultes et goûters écartés), Rennes `menus-cantines` (un enregistrement par jour et secteur, codes
+  BIO/DUR/LOC/FR/VEGE, `FERIE` = jour férié, `type` = commentaire de la semaine, `ouverture` = du jour),
+  Nantes Métropole `244400404_menus-cantines-scolaires-nantes-metropole` (un texte libre par commune et type
+  de menu ; contient aussi Rezé et Orvault, dont les jeux séparés sont redondants, Rezé en HTML).
+- **Identifiants** : `menu:<source>-<menu>` ; menus `maternelle` / `elementaire`, `secteur-N`,
+  `<commune>-<id_type_menu>`. Ne jamais les renommer.
+- **Végétarien** : Toulouse, tous les plats principaux du jour codés `PSV…` (plat sans viande) ou nommés
+  « végé/veggi » ; Rennes, `type` « Végétarien » ou code `VEGE` sur le plat ; Nantes, texte commençant par
+  « Menu végétarien ». Sinon `null` (inconnu), jamais `false` affiché comme un fait.
+- **Export Nantes** : les « œ » arrivent en `?` (« b?uf ») : `tidy()` les rétablit, et l'apostrophe aussi.
+- **Déclencheurs** : le cœur ne compare qu'à l'égalité, d'où des mots surveillés **dans la configuration**
+  (`watched_words`) et un filtre `word` facultatif comparé tel quel. Créneaux fixes : aujourd'hui 7 h–10 h,
+  demain 18 h–21 h (heure de Paris) ; déjà envoyés retenus dans `/data/fired.json`.
+- Allergènes : le jeu « recette » de Toulouse les donne par denrée, mais date d'octobre 2025 : écarté.
+- Pas de `should_poll` : minuteur de 10 min (états du jour, déclencheurs), lecture des portails toutes les
+  3/6/12 h, nouvel essai 30 min après un échec.
