@@ -16,7 +16,7 @@ verbunden.
   Grundschule), Rennes (die drei Sektoren der Zentralküche), Nantes
   Métropole (ein Menü pro Gemeinde und Menütyp: Standard, Vorschule,
   Grundschule, Alternative…).
-- Text-Funktionen mit dem Essen **von heute**, um Mitternacht aktualisiert.
+- Text-Funktionen mit dem Essen **von heute**, wenige Minuten nach Mitternacht aktualisiert.
 - Ein Dashboard-Widget mit dem Essen von heute und morgen.
 - Eine Szenen-Aktion „Kantinen-Menü abrufen“ und zwei Szenen-Auslöser.
 
@@ -88,8 +88,7 @@ Hinweise anzeigen.
 
 - **Vegetarisches Menü**: ein verfolgtes Menü ist vegetarisch, heute
   (ausgelöst zwischen 7 und 10 Uhr) oder morgen (zwischen 18 und 21 Uhr).
-  Nur wenn die Stadt es angibt: Toulouse (Gerichte ohne Fleisch codiert),
-  Rennes und die Gemeinden von Nantes Métropole, die den Text mit „Menu
+  Nur wenn die Stadt es angibt: Toulouse (nur als „plat sans viande“ codierte Hauptgerichte: ein Fisch- oder Eiertag wird nicht gemeldet), Rennes (Code, Kommentar oder ein einziges so benanntes Hauptgericht) und die Gemeinden von Nantes Métropole, die den Text mit „Menu
   végétarien“ beginnen.
 - **Überwachtes Gericht im Menü**: ein Gericht enthält eines der überwachten
   Wörter, gleiche Zeitfenster. Der optionale Filter **Wort** vergleicht
@@ -128,7 +127,7 @@ wenn“.
 
 Eine Anfrage pro Stadt bei jeder Aktualisierung, für die Tage von zwei
 Wochen zurück bis fünf Wochen voraus. Die Zustände von heute werden alle 10
-Minuten neu berechnet: der neue Tag erscheint gleich nach Mitternacht
+Minuten neu berechnet: der neue Tag erscheint innerhalb von zehn Minuten nach Mitternacht
 (Pariser Zeit).
 
 ## Fehlerbehebung

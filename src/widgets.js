@@ -14,6 +14,7 @@ import { WIDGET_COLORS } from '@gladysassistant/integration-sdk';
 import { COURSES } from './sources.js';
 import { dishText, mentionsText, noMealReason } from './devices.js';
 import { NAMES, TEXT, say } from './messages.js';
+import { parisMinutes } from './dates.js';
 import { WIDGET_KEY } from './service.js';
 import { clip } from './text.js';
 
@@ -56,24 +57,42 @@ async function menusContent(service, { settings, language }) {
   await service.firstReading();
   const watched = service.watched();
   const chosen = Array.isArray(settings?.menus) ? settings.menus.map(String) : [];
-  const days = settings?.show_tomorrow === false ? ['today'] : ['today', 'tomorrow'];
+  let days = settings?.show_tomorrow === false ? ['today'] : ['today', 'tomorrow'];
   const options = { mentions: settings?.show_mentions !== false };
   const entries =
     chosen.length > 0
       ? chosen.map((id) => watched.find((entry) => entry.deviceId === id)).filter(Boolean)
       : watched;
-  // A new day, a new reading: half an hour is soon enough.
-  const ttl = 1800;
+  // Half an hour, but never past midnight (Paris): "today" changes then.
+  const toMidnight = (1440 - parisMinutes(service.now())) * 60;
+  const ttl = Math.max(60, Math.min(1800, toMidnight + 60));
   if (entries.length === 0) {
     const key = chosen.length > 0 ? 'gone' : 'pickMenu';
     return { ttl_seconds: ttl, components: [{ type: 'text', text: say(TEXT, language, key) }] };
   }
-  const items = entries
-    .flatMap((entry) => days.map((day) => row(service, entry, day, language, options)))
-    .slice(0, MAX_ROWS);
+  // Too many rows: today only for every menu, before leaving menus out.
+  if (entries.length * days.length > MAX_ROWS) {
+    days = ['today'];
+  }
+  const shown = entries.slice(0, MAX_ROWS);
+  const items = shown.flatMap((entry) =>
+    days.map((day) => row(service, entry, day, language, options)),
+  );
+  const hidden = entries.length - shown.length;
   return {
     ttl_seconds: ttl,
-    components: [{ type: 'card-list', display: 'list', items }],
+    components: [
+      { type: 'card-list', display: 'list', items },
+      ...(hidden > 0
+        ? [
+            {
+              type: 'text',
+              variant: 'caption',
+              text: say(TEXT, language, 'hidden', { count: hidden }),
+            },
+          ]
+        : []),
+    ],
   };
 }
 

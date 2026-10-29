@@ -15,7 +15,7 @@ This integration is not affiliated with the cities or their caterers.
   school), Rennes (the three sectors of the central kitchen), Nantes
   Métropole (one menu per town and menu type: standard, nursery, primary,
   alternative…).
-- Text features with **today's** meal, updated at midnight.
+- Text features with **today's** meal, updated a few minutes after midnight.
 - A dashboard widget with today's and tomorrow's meals.
 - A scene action "Get the canteen menu" and two scene triggers.
 
@@ -86,7 +86,7 @@ with tomorrow, eight without), show tomorrow, show the mentions.
 
 - **Vegetarian menu**: a watched menu is vegetarian, today (fired between
   7:00 and 10:00) or tomorrow (between 18:00 and 21:00). Only when the city
-  says so: Toulouse (dishes coded without meat), Rennes, and the towns of
+  says so: Toulouse (main courses coded "plat sans viande" only: a fish or egg day is not flagged), Rennes (code, comment or a single main course named so), and the towns of
   Nantes Métropole that start the text with "Menu végétarien".
 - **Watched dish on the menu**: a dish contains one of the watched words,
   same windows. The optional **Word** filter compares exactly: write it in
@@ -123,7 +123,7 @@ served) and `vegetarian` (1 when every meal served is vegetarian), for a
 
 One request per city at each refresh, for the days from two weeks back to
 five weeks ahead. Today's states are recomputed every 10 minutes, so the
-new day shows right after midnight (Paris time).
+new day shows within ten minutes of midnight (Paris time).
 
 ## Troubleshooting
 

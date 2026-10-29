@@ -15,7 +15,7 @@ Cette intégration n'est pas affiliée aux villes ni à leurs prestataires.
   élémentaire), Rennes (les trois secteurs de la cuisine centrale), Nantes
   Métropole (un menu par commune et par type : standard, maternelle,
   élémentaire, alternatif…).
-- Des fonctionnalités texte avec le repas **du jour**, mises à jour à minuit.
+- Des fonctionnalités texte avec le repas **du jour**, mises à jour quelques minutes après minuit.
 - Un widget du tableau de bord avec les repas du jour et de demain.
 - Une action de scène « Obtenir le menu de la cantine » et deux déclencheurs.
 
@@ -89,7 +89,7 @@ afficher demain, afficher les mentions.
 
 - **Menu végétarien** : un menu suivi est végétarien, aujourd'hui (envoyé
   entre 7 h et 10 h) ou demain (entre 18 h et 21 h). Seulement quand la
-  ville l'indique : Toulouse (plats codés sans viande), Rennes, et les
+  ville l'indique : Toulouse (seulement les plats codés « plat sans viande » : un jour poisson ou œuf n'est pas signalé), Rennes (code, commentaire ou plat unique nommé ainsi), et les
   communes de Nantes Métropole qui commencent le texte par « Menu
   végétarien ».
 - **Plat surveillé au menu** : un plat contient un des mots surveillés,
@@ -127,7 +127,7 @@ végétariens), pour une étape « Continuer seulement si ».
 
 Une requête par ville à chaque rafraîchissement, pour les jours de deux
 semaines en arrière à cinq semaines en avant. Les états du jour sont
-recalculés toutes les 10 minutes : le nouveau jour s'affiche juste après
+recalculés toutes les 10 minutes : le nouveau jour s'affiche dans les dix minutes après
 minuit (heure de Paris).
 
 ## Dépannage

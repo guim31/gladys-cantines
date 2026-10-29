@@ -38,7 +38,8 @@ export function tidy(value) {
   let text = String(value)
     .replace(/<[^>]*>/g, ' ')
     .replace(/&nbsp;/g, ' ')
-    .replace(/(?<=\p{L}|^|\s)\?(?=u)/gu, 'œ')
+    // "b?uf", "c?ur", "s?ur", "?uf": an œ; "d?un", "l?huile": an apostrophe.
+    .replace(/(?<=^|[\s(]|[bcmnsvBCMNSV])\?(?=u)/gu, 'œ')
     .replace(/(?<=\p{L})\?(?=\p{L})/gu, '’')
     .replace(/\s+/g, ' ')
     .trim();

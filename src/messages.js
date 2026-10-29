@@ -104,6 +104,8 @@ export const TEXT = {
     sentenceNone: ({ name, reason }) => `${name}: ${reason}.`,
     pickMenu: 'Add a menu in the Discover tab of the integration, then pick it here.',
     gone: 'This menu is no longer watched.',
+    hidden: ({ count }) =>
+      `${count} more menu${count === 1 ? '' : 's'}: pick fewer in the settings`,
     noMenu: 'No menu is watched: add one in the Discover tab of the integration.',
   },
   fr: {
@@ -123,6 +125,8 @@ export const TEXT = {
     sentenceNone: ({ name, reason }) => `${name} : ${reason}.`,
     pickMenu: "Ajoutez un menu dans l'onglet Découverte de l'intégration, puis choisissez-le ici.",
     gone: "Ce menu n'est plus suivi.",
+    hidden: ({ count }) =>
+      `${count} menu${count > 1 ? 's' : ''} de plus : choisissez-en moins dans les réglages`,
     noMenu: "Aucun menu n'est suivi : ajoutez-en un dans l'onglet Découverte de l'intégration.",
   },
   de: {
@@ -142,6 +146,8 @@ export const TEXT = {
     sentenceNone: ({ name, reason }) => `${name}: ${reason}.`,
     pickMenu: 'Füge ein Menü im Tab „Entdecken“ der Integration hinzu und wähle es hier.',
     gone: 'Dieses Menü wird nicht mehr verfolgt.',
+    hidden: ({ count }) =>
+      `${count} weitere ${count === 1 ? 'Menü' : 'Menüs'}: wähle weniger in den Einstellungen`,
     noMenu: 'Kein Menü wird verfolgt: füge eines im Tab „Entdecken“ der Integration hinzu.',
   },
   es: {
@@ -161,6 +167,7 @@ export const TEXT = {
     sentenceNone: ({ name, reason }) => `${name}: ${reason}.`,
     pickMenu: 'Añada un menú en la pestaña Descubrir de la integración y luego elíjalo aquí.',
     gone: 'Este menú ya no está vigilado.',
+    hidden: ({ count }) => `${count} menú${count === 1 ? '' : 's'} más: elija menos en los ajustes`,
     noMenu: 'No se vigila ningún menú: añada uno en la pestaña Descubrir de la integración.',
   },
 };

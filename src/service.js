@@ -121,6 +121,7 @@ export class Canteens {
     this.config = config;
     this.gladys.forgetPublishedStates?.();
     await this.refresh({ discover: true });
+    this.refreshWidget();
   }
 
   async reconfigure(config) {
@@ -164,12 +165,13 @@ export class Canteens {
     return SOURCE_KEYS.find((key) => id.includes(`:${key}-`)) ?? null;
   }
 
-  /** The menus added to Gladys: `{ deviceId, key, name }[]`. */
+  /** The menus added to Gladys: `{ deviceId, key, menuId, name }[]`. */
   watched() {
     return (this.gladys.devices ?? [])
       .map((device) => ({
         deviceId: device.external_id,
         key: this.sourceOfDevice(device),
+        menuId: device.params?.find?.((p) => p.name === 'menu_id')?.value ?? null,
         name: device.name,
       }))
       .filter((entry) => entry.key);
@@ -208,7 +210,9 @@ export class Canteens {
         return { source, menu };
       }
     }
-    return { source, menu: { id: null, meals: new Map(), lastDate: null } };
+    // Gone from the source (no meal in the days read): its own id, so that
+    // the states still reach the features of the device.
+    return { source, menu: { id: entry?.menuId ?? null, meals: new Map(), lastDate: null } };
   }
 
   today() {
@@ -291,7 +295,7 @@ export class Canteens {
   /** A device was just added in Gladys: its states, all of them, now. */
   async onDeviceCreated(device) {
     const found = this.lookup(device?.external_id);
-    if (found?.menu) {
+    if (found?.menu?.id) {
       await this.publish(this.statesOf(found.source, found.menu));
     }
     this.refreshWidget();
@@ -347,7 +351,7 @@ export class Canteens {
     const states = [];
     for (const entry of this.watched()) {
       const found = this.lookup(entry.deviceId);
-      if (found?.menu) {
+      if (found?.menu?.id) {
         states.push(...this.statesOf(found.source, found.menu));
       }
     }

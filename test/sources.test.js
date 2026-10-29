@@ -22,8 +22,8 @@ test('Toulouse: the children lunch only, two choices of main course, vegetarian 
     dairy: ['Fromage a tartiner president'],
     dessert: ['Salade de fruit au sirop'],
   });
-  // A meat choice next to the vegetarian one: not a vegetarian day.
-  assert.equal(thursday.vegetarian, false);
+  // A meat choice next to the vegetarian one: not said to be vegetarian.
+  assert.equal(thursday.vegetarian, null);
   // 2026-11-20 at the nursery school: only the "PSV" (meatless) main course.
   const nursery = menus.get('maternelle').meals.get('2026-11-20');
   assert.deepEqual(nursery.courses.main, ['Loubia vegetarienne']);
@@ -45,7 +45,12 @@ test('Rennes: one menu per sector, the codes as mentions, the comments as notes'
   assert.equal(thursday.courses.dairy, null);
   assert.deepEqual(thursday.labels, ['sustainable', 'organic']);
   assert.deepEqual(thursday.notes, ['Vacances scolaires']);
-  assert.equal(thursday.vegetarian, false);
+  assert.equal(thursday.vegetarian, null);
+  // A single main course named so, without a code: "Lasagne végé".
+  assert.equal(sector.meals.get('2026-11-12').vegetarian, true);
+  // "Saucisse porc ou volaille ou végé*" is a choice, not a vegetarian day.
+  const choice = menus.get('secteur-1').meals.get('2026-11-06');
+  assert.equal(choice.vegetarian, null);
   // The "Végétarien" week comment makes the day vegetarian, not a note.
   const vegetarian = sector.meals.get('2026-11-03');
   assert.equal(vegetarian.vegetarian, true);
@@ -102,6 +107,10 @@ test('text helpers: capitals, HTML, watched words', () => {
   assert.equal(tidy('FRITES   AU FOUR'), 'Frites au four');
   assert.equal(tidy('<p>Menu <b>végétarien</b></p>'), 'Menu végétarien');
   assert.equal(tidy('Rôti de b?uf, sardines à l?huile'), 'Rôti de bœuf, sardines à l’huile');
+  assert.equal(
+    tidy('Salade d?un jour, c?ur de palmier, ?uf dur'),
+    'Salade d’un jour, cœur de palmier, œuf dur',
+  );
   assert.equal(tidy('   '), null);
   assert.deepEqual(wordsOf(' Frites, pizza;; frites\nPoisson pané , x'), [
     'frites',

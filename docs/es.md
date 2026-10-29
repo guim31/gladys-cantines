@@ -16,7 +16,7 @@ proveedores.
   primaria), Rennes (los tres sectores de la cocina central), Nantes
   Métropole (un menú por municipio y tipo: estándar, infantil, primaria,
   alternativo…).
-- Funciones de texto con la comida **de hoy**, actualizadas a medianoche.
+- Funciones de texto con la comida **de hoy**, actualizadas pocos minutos después de medianoche.
 - Un widget del panel con la comida de hoy y de mañana.
 - Una acción de escena «Obtener el menú del comedor» y dos disparadores.
 
@@ -91,8 +91,7 @@ menciones.
 
 - **Menú vegetariano**: un menú vigilado es vegetariano, hoy (se envía
   entre las 7:00 y las 10:00) o mañana (entre las 18:00 y las 21:00). Solo
-  cuando la ciudad lo indica: Toulouse (platos codificados sin carne),
-  Rennes, y los municipios de Nantes Métropole que empiezan el texto con
+  cuando la ciudad lo indica: Toulouse (solo los platos codificados «plat sans viande»: un día de pescado o huevo no se señala), Rennes (código, comentario o un único plato principal con ese nombre), y los municipios de Nantes Métropole que empiezan el texto con
   «Menu végétarien».
 - **Plato vigilado en el menú**: un plato contiene una de las palabras
   vigiladas, mismas franjas. El filtro opcional **Palabra** compara de
@@ -130,7 +129,7 @@ vegetarianas), para un paso «Continuar solo si».
 
 Una petición por ciudad en cada actualización, para los días desde dos
 semanas atrás hasta cinco semanas adelante. Los estados de hoy se
-recalculan cada 10 minutos: el nuevo día aparece justo después de
+recalculan cada 10 minutos: el nuevo día aparece en los diez minutos siguientes a la
 medianoche (hora de París).
 
 ## Solución de problemas

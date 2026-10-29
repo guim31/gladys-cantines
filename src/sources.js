@@ -9,7 +9,7 @@
 //   { courses: { starter, main, side, dairy, dessert } | null,
 //     text: string | null,          the whole meal when the source does not
 //                                   split it into courses (Nantes Métropole)
-//     vegetarian: true | false | null,  null when the source does not say
+//     vegetarian: true | null,     null when the source does not say so
 //     labels: ['organic', 'local', ...],
 //     notes: ['Semaine du goût', ...] }  the city's own comments
 //
@@ -109,7 +109,10 @@ export function parseToulouse(records) {
       courses[course] = list.map((dish) => dish.name);
     }
     const mains = dishes.main ?? [];
-    const vegetarian = mains.length > 0 && mains.every((dish) => meatless(dish.code, dish.name));
+    // True when the city says so, null otherwise: a fish or egg dish is not
+    // coded "PSV", so "not vegetarian" is never asserted.
+    const vegetarian =
+      mains.length > 0 && mains.every((dish) => meatless(dish.code, dish.name)) ? true : null;
     put(menus, id, `Toulouse · ${TOULOUSE_NAMES[id]}`, date, {
       courses,
       text: null,
@@ -175,8 +178,15 @@ export function parseRennes(records) {
       continue;
     }
     const week = tidy(record.type);
+    // The city's comment or code, or a single main course named so ("Lasagne
+    // végé", "Chili sin carné"; not "Saucisse porc ou volaille ou végé").
+    const main = courses.main?.[0] ?? '';
     const vegetarian =
-      /^v[ée]g[ée]tarien$/i.test(week) || codesOf(record.code_plat).includes('VEGE');
+      /^v[ée]g[ée]tarien$/i.test(week) ||
+      codesOf(record.code_plat).includes('VEGE') ||
+      (!/\sou\s/i.test(main) && /v[ée]g[ée]|veggi|sin carn/i.test(main))
+        ? true
+        : null;
     const labels = new Set(codes.map((code) => RENNES_CODES[code]).filter(Boolean));
     labels.delete('vegetarian');
     put(menus, `secteur-${sector}`, `Rennes · secteur ${sector}`, date, {

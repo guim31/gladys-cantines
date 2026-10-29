@@ -259,3 +259,34 @@ test('status action and language change', async (t) => {
   assert.equal(lastText(world, device, 'mentions'), 'no mention');
   assert.ok(featureId(device, 'main'));
 });
+
+test('a menu gone from its source shows "not published" on its own features', async (t) => {
+  const world = await createWorld({ config: { cities: ['toulouse'] } });
+  t.after(() => world.app.stop());
+  const device = await create(world, NURSERY);
+  world.network.routes.toulouse = world.network.routes.toulouse.filter(
+    (record) => record.libelle_population_cible !== '.Maternelle',
+  );
+  await world.service.refresh();
+  assert.equal(lastText(world, device, 'main'), 'Menu pas encore publié');
+  assert.ok(world.fake.states.every((s) => !s.device_feature_external_id.includes('toulouse-:')));
+});
+
+test('widget: many menus, today only, then a caption for the menus left out', async (t) => {
+  const world = await createWorld({ config: { cities: ['nantes'] } });
+  t.after(() => world.app.stop());
+  const devices = world.fake.discoveredDevices.slice(0, 10);
+  for (const device of devices) {
+    await world.fake.deviceCreated(device);
+  }
+  const ack = await world.fake.widgetGet('menus', { settings: {}, language: 'en' });
+  const [list, caption] = ack.data.content.components;
+  assert.equal(list.items.length, 8);
+  assert.ok(list.items.every((item) => item.title.endsWith('· Today')));
+  assert.equal(caption.text, '2 more menus: pick fewer in the settings');
+  assert.deepEqual(validateWidgetContent(ack.data.content), []);
+  // Never cached past midnight.
+  world.clock.set(paris('2026-10-29', '23:50'));
+  const late = await world.fake.widgetGet('menus', { settings: {}, language: 'en' });
+  assert.equal(late.data.content.ttl_seconds, 660);
+});
